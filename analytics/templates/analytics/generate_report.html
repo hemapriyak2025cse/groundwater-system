@@ -1,0 +1,62 @@
+{% extends 'base.html' %}
+{% block title %}Generate Report{% endblock %}
+{% block page_title %}Generate PDF Report{% endblock %}
+{% block breadcrumb %}Generate Report{% endblock %}
+{% block content %}
+<div class="row g-4">
+  <div class="col-lg-4">
+    <div class="card">
+      <div class="card-header"><i class="bi bi-file-earmark-pdf-fill me-2 text-danger"></i>Report Configuration</div>
+      <div class="card-body">
+        <form method="post">
+          {% csrf_token %}
+          <div class="mb-3">
+            <label class="form-label">Filter by State <span style="color:#94a3b8;font-size:.75rem;">(optional)</span></label>
+            <select name="state" class="form-select">
+              <option value="">All States</option>
+              {% for s in states %}<option value="{{ s }}" {% if s == selected_state %}selected{% endif %}>{{ s }}</option>{% endfor %}
+            </select>
+          </div>
+          <div class="mb-4">
+            <label class="form-label">Filter by District <span style="color:#94a3b8;font-size:.75rem;">(optional)</span></label>
+            <input type="text" name="district" class="form-control" placeholder="e.g. Ludhiana"/>
+          </div>
+          <button type="submit" class="btn btn-danger w-100 fw-semibold py-2">
+            <i class="bi bi-download me-2"></i>Generate & Download PDF
+          </button>
+        </form>
+        <div class="mt-3 p-3 rounded" style="background:#fef2f2;border:1px solid #fecaca;">
+          <div style="font-size:.78rem;color:#991b1b;font-weight:600;"><i class="bi bi-info-circle me-1"></i>Report includes:</div>
+          <ul style="font-size:.75rem;color:#7f1d1d;margin:6px 0 0 16px;padding:0;">
+            <li>Key insights summary</li>
+            <li>Descriptive statistics table</li>
+            <li>Risk classification</li>
+            <li>Depletion analysis</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-lg-8">
+    <div class="card">
+      <div class="card-header"><i class="bi bi-lightbulb-fill me-2 text-warning"></i>Auto-Generated Insights Preview</div>
+      <div class="card-body">
+        {% if insights_preview %}
+          {% for insight in insights_preview %}
+          <div class="insight-item">
+            <div class="insight-dot"></div>
+            <div style="font-size:.87rem;">{{ insight }}</div>
+          </div>
+          {% endfor %}
+        {% else %}
+          <div class="empty-state" style="padding:40px 20px;">
+            <i class="bi bi-lightbulb"></i>
+            <p>No data available. Upload datasets first.</p>
+          </div>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %}

@@ -1,0 +1,114 @@
+{% extends 'base.html' %}
+{% load analytics_tags %}
+{% block title %}EDA — AquaAnalytics{% endblock %}
+{% block page_title %}Exploratory Data Analysis{% endblock %}
+{% block breadcrumb %}EDA — CGWB Groundwater Dataset{% endblock %}
+{% block content %}
+
+<!-- Toolbar -->
+<div class="card mb-4">
+  <div class="card-body py-3 d-flex align-items-center justify-content-between flex-wrap gap-3">
+    <div class="d-flex align-items-center gap-2">
+      <span class="badge bg-primary px-3 py-2"><i class="bi bi-database-fill me-1"></i>CGWB Groundwater Levels</span>
+      <span class="badge bg-secondary px-3 py-2">{{ total_records|default:"0" }} records</span>
+      {% if outlier_removed %}<span class="badge bg-warning text-dark px-3 py-2"><i class="bi bi-scissors me-1"></i>Outliers Removed</span>{% endif %}
+    </div>
+    <div class="d-flex gap-2">
+      {% if outlier_removed %}
+      <a href="?" class="btn btn-sm btn-outline-secondary"><i class="bi bi-arrow-counterclockwise me-1"></i>Reset</a>
+      {% else %}
+      <a href="?remove_outliers=1" class="btn btn-sm btn-outline-danger"><i class="bi bi-scissors me-1"></i>Remove Outliers (IQR)</a>
+      {% endif %}
+    </div>
+  </div>
+</div>
+
+{% if has_data %}
+
+<!-- Descriptive Stats -->
+<div class="card mb-4">
+  <div class="card-header"><i class="bi bi-calculator me-2 text-primary"></i>Descriptive Statistics — Groundwater Depth (m bgl)</div>
+  <div class="card-body p-0">
+    <div class="table-responsive">
+      <table class="table mb-0">
+        <thead><tr><th>Metric</th>{% for col in stats.keys %}<th>{{ col }}</th>{% endfor %}</tr></thead>
+        <tbody>
+          {% for stat_name in stats|first_values %}
+          <tr>
+            <td style="font-weight:600;color:#64748b;font-size:.78rem;text-transform:uppercase;white-space:nowrap;">{{ stat_name }}</td>
+            {% for col,vals in stats.items %}<td>{{ vals|get_item:stat_name }}</td>{% endfor %}
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+
+<!-- Missing Values -->
+<div class="card mb-4">
+  <div class="card-header"><i class="bi bi-question-circle me-2 text-warning"></i>Missing Values Summary</div>
+  <div class="card-body p-0">
+    <div class="table-responsive">
+      <table class="table mb-0">
+        <thead><tr><th>Column</th><th>Type</th><th>Missing Count</th><th>Coverage</th></tr></thead>
+        <tbody>
+          {% for row in missing %}
+          <tr>
+            <td style="font-weight:500;">{{ row.column }}</td>
+            <td><code style="font-size:.75rem;background:#f1f5f9;padding:2px 6px;border-radius:4px;">{{ row.dtype }}</code></td>
+            <td>{% if row.missing > 0 %}<span class="text-danger fw-bold">{{ row.missing }}</span>{% else %}<span class="text-success">0</span>{% endif %}</td>
+            <td style="min-width:160px;">
+              <div class="d-flex align-items-center gap-2">
+                <div class="progress flex-grow-1" style="height:6px;">
+                  <div class="progress-bar {% if row.percent > 20 %}bg-danger{% elif row.percent > 5 %}bg-warning{% else %}bg-success{% endif %}" style="width:{{ row.percent }}%"></div>
+                </div>
+                <span style="font-size:.75rem;color:#64748b;">{{ row.percent }}%</span>
+              </div>
+            </td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+
+<!-- Charts Row 1: Histogram + Box -->
+<div class="row g-3 mb-3">
+  <div class="col-md-6">
+    <div class="chart-card">
+      <div class="chart-title"><i class="bi bi-bar-chart-fill me-2 text-primary"></i>Depth Distribution (Histogram)</div>
+      {% if hist_chart %}{{ hist_chart|safe }}{% else %}<div class="empty-state"><i class="bi bi-bar-chart"></i><p>No data</p></div>{% endif %}
+    </div>
+  </div>
+  <div class="col-md-6">
+    <div class="chart-card">
+      <div class="chart-title"><i class="bi bi-box me-2 text-warning"></i>Box Plot by State — Outlier Detection</div>
+      {% if box_chart %}{{ box_chart|safe }}{% else %}<div class="empty-state"><i class="bi bi-box"></i><p>No data</p></div>{% endif %}
+    </div>
+  </div>
+</div>
+
+<!-- Charts Row 2: Depletion Heatmap -->
+<div class="row g-3">
+  <div class="col-12">
+    <div class="chart-card">
+      <div class="chart-title"><i class="bi bi-grid-fill me-2 text-danger"></i>State × Year Depletion Heatmap</div>
+      {% if depletion_heatmap %}
+        <img src="data:image/png;base64,{{ depletion_heatmap }}" class="img-fluid rounded" style="width:100%;" alt="Depletion Heatmap"/>
+      {% else %}
+        <div class="empty-state"><i class="bi bi-grid"></i><p>No data</p></div>
+      {% endif %}
+    </div>
+  </div>
+</div>
+
+{% else %}
+<div class="card"><div class="card-body empty-state">
+  <i class="bi bi-database-x"></i>
+  <p>No CGWB data found. <a href="{% url 'upload_data' %}">Upload dataset →</a></p>
+</div></div>
+{% endif %}
+
+{% endblock %}

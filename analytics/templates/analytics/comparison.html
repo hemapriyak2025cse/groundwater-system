@@ -1,0 +1,44 @@
+{% extends 'base.html' %}
+{% block title %}Comparison{% endblock %}
+{% block page_title %}State & District Comparison{% endblock %}
+{% block breadcrumb %}Comparison{% endblock %}
+{% block content %}
+
+<div class="card mb-4">
+  <div class="card-body py-3">
+    <form method="get" class="d-flex align-items-start gap-3 flex-wrap">
+      <div>
+        <label class="form-label">Compare States <span style="color:#94a3b8;font-size:.75rem;">(Ctrl+Click for multiple)</span></label>
+        <select name="states" class="form-select" multiple size="5" style="min-width:220px;">
+          {% for s in all_states %}
+          <option value="{{ s }}" {% if s in selected_states %}selected{% endif %}>{{ s }}</option>
+          {% endfor %}
+        </select>
+      </div>
+      <div class="align-self-end">
+        <button type="submit" class="btn btn-primary"><i class="bi bi-bar-chart-fill me-2"></i>Compare</button>
+      </div>
+    </form>
+  </div>
+</div>
+
+<div class="chart-card mb-3">
+  <div class="chart-title"><i class="bi bi-graph-up me-2 text-primary"></i>Multi-State Groundwater Level Comparison</div>
+  {% if multiline_chart %}{{ multiline_chart|safe }}{% else %}<div class="empty-state"><i class="bi bi-graph-up"></i><p>No data.</p></div>{% endif %}
+</div>
+
+<div class="row g-3">
+  <div class="col-lg-7">
+    <div class="chart-card">
+      <div class="chart-title"><i class="bi bi-bar-chart-fill me-2 text-success"></i>State-wise Average Level</div>
+      {% if bar_chart %}{{ bar_chart|safe }}{% else %}<div class="empty-state"><i class="bi bi-bar-chart"></i><p>No data</p></div>{% endif %}
+    </div>
+  </div>
+  <div class="col-lg-5">
+    <div class="chart-card">
+      <div class="chart-title"><i class="bi bi-pie-chart-fill me-2 text-warning"></i>Risk Category Distribution</div>
+      {% if pie_chart %}{{ pie_chart|safe }}{% else %}<div class="empty-state"><i class="bi bi-pie-chart"></i><p>No data</p></div>{% endif %}
+    </div>
+  </div>
+</div>
+{% endblock %}

@@ -1,0 +1,25 @@
+{% extends 'base.html' %}
+{% block title %}Sign Up — AquaAnalytics{% endblock %}
+{% block auth_content %}
+<div class="auth-wrap">
+  <div class="auth-card">
+    <div class="auth-logo"><i class="bi bi-droplet-fill"></i></div>
+    <h4 class="fw-bold text-center mb-1">Create account</h4>
+    <p class="text-center mb-4" style="color:#64748b;font-size:.85rem;">Join AquaAnalytics</p>
+    <form method="post">
+      {% csrf_token %}
+      {% for field in form %}
+      <div class="mb-3">
+        <label class="form-label">{{ field.label }}</label>
+        {{ field }}
+        {% if field.errors %}<div class="text-danger mt-1" style="font-size:.78rem;">{{ field.errors.0 }}</div>{% endif %}
+      </div>
+      {% endfor %}
+      <button type="submit" class="btn btn-primary w-100 py-2 fw-semibold mt-1" style="font-size:.95rem;">Create Account</button>
+    </form>
+    <p class="text-center mt-4 mb-0" style="font-size:.83rem;color:#64748b;">
+      Already have an account? <a href="{% url 'login' %}" style="color:#2563eb;font-weight:600;">Sign in</a>
+    </p>
+  </div>
+</div>
+{% endblock %}

@@ -1,0 +1,32 @@
+{% extends 'base.html' %}
+{% block title %}Sign In — AquaAnalytics{% endblock %}
+{% block auth_content %}
+<div class="auth-wrap">
+  <div class="auth-card">
+    <div class="auth-logo"><i class="bi bi-droplet-fill"></i></div>
+    <h4 class="fw-bold text-center mb-1">Welcome back</h4>
+    <p class="text-center mb-4" style="color:#64748b;font-size:.85rem;">Sign in to AquaAnalytics</p>
+    <form method="post">
+      {% csrf_token %}
+      <div class="mb-3">
+        <label class="form-label">Username</label>
+        <div class="input-group">
+          <span class="input-group-text" style="border-radius:8px 0 0 8px;background:#f8fafc;border-color:#e2e8f0;"><i class="bi bi-person text-muted"></i></span>
+          {{ form.username }}
+        </div>
+      </div>
+      <div class="mb-4">
+        <label class="form-label">Password</label>
+        <div class="input-group">
+          <span class="input-group-text" style="border-radius:8px 0 0 8px;background:#f8fafc;border-color:#e2e8f0;"><i class="bi bi-lock text-muted"></i></span>
+          {{ form.password }}
+        </div>
+      </div>
+      <button type="submit" class="btn btn-primary w-100 py-2 fw-semibold" style="font-size:.95rem;">Sign In</button>
+    </form>
+    <p class="text-center mt-4 mb-0" style="font-size:.83rem;color:#64748b;">
+      No account? <a href="{% url 'signup' %}" style="color:#2563eb;font-weight:600;">Create one</a>
+    </p>
+  </div>
+</div>
+{% endblock %}

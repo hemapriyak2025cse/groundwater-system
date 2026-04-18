@@ -1,0 +1,88 @@
+{% extends 'base.html' %}
+{% block title %}Admin Panel{% endblock %}
+{% block page_title %}Admin Panel{% endblock %}
+{% block breadcrumb %}Admin Panel{% endblock %}
+{% block content %}
+
+<!-- CGWB Dataset Management -->
+<div class="card mb-4">
+  <div class="card-header"><i class="bi bi-database-fill me-2 text-primary"></i>CGWB Dataset Management</div>
+  <div class="card-body">
+    <div class="row g-3 align-items-center">
+      <div class="col-md-4">
+        <div class="card border text-center p-4" style="border-radius:12px;">
+          <div style="font-size:2.4rem;font-weight:700;color:#2563eb;">{{ record_count|default:"0" }}</div>
+          <div style="font-size:.82rem;font-weight:600;color:#64748b;margin:4px 0 14px;">CGWB Records in MongoDB</div>
+          <form method="post">
+            {% csrf_token %}
+            <input type="hidden" name="action" value="clear_dataset"/>
+            <button type="submit" class="btn btn-outline-danger w-100"
+              onclick="return confirm('Clear all CGWB groundwater records?')">
+              <i class="bi bi-trash me-1"></i>Clear Dataset
+            </button>
+          </form>
+        </div>
+      </div>
+      <div class="col-md-8">
+        <div class="p-4 rounded" style="background:#f8fafc;border:1px solid #e2e8f0;">
+          <div class="fw-600 mb-2"><i class="bi bi-info-circle me-2 text-info"></i>Dataset Info</div>
+          <ul style="font-size:.84rem;color:#475569;margin:0;padding-left:18px;">
+            <li>Only CGWB groundwater level data is stored and analyzed.</li>
+            <li>Upload new data via <a href="{% url 'upload_data' %}">Upload Data</a> page.</li>
+            <li>Clearing will remove all records — upload again to restore.</li>
+            <li>Sample data can be regenerated via <code>python generate_sample_data.py</code>.</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- User Management -->
+<div class="card">
+  <div class="card-header d-flex justify-content-between align-items-center">
+    <span><i class="bi bi-people-fill me-2 text-success"></i>User Management</span>
+    <a href="{% url 'signup' %}" class="btn btn-sm btn-success"><i class="bi bi-person-plus me-1"></i>Add User</a>
+  </div>
+  <div class="card-body p-0">
+    <div class="table-responsive">
+      <table class="table mb-0">
+        <thead><tr><th>User</th><th>Email</th><th>Role</th><th>Joined</th><th>Action</th></tr></thead>
+        <tbody>
+          {% for u in users %}
+          <tr>
+            <td>
+              <div class="d-flex align-items-center gap-2">
+                <div style="width:32px;height:32px;border-radius:50%;background:linear-gradient(135deg,#2563eb,#0ea5e9);display:flex;align-items:center;justify-content:center;color:#fff;font-weight:700;font-size:.8rem;flex-shrink:0;">
+                  {{ u.username|first|upper }}
+                </div>
+                <strong>{{ u.username }}</strong>
+                {% if u == request.user %}<span class="badge bg-secondary" style="font-size:.65rem;">You</span>{% endif %}
+              </div>
+            </td>
+            <td style="color:#64748b;">{{ u.email|default:"—" }}</td>
+            <td><span class="badge {% if u.profile.role == 'admin' %}bg-danger{% else %}bg-primary{% endif %} px-3 py-2">{{ u.profile.role|title }}</span></td>
+            <td style="color:#64748b;">{{ u.date_joined|date:"d M Y" }}</td>
+            <td>
+              {% if u != request.user %}
+              <form method="post" class="d-inline">
+                {% csrf_token %}
+                <input type="hidden" name="action" value="delete_user"/>
+                <input type="hidden" name="user_id" value="{{ u.pk }}"/>
+                <button type="submit" class="btn btn-sm btn-outline-danger"
+                  onclick="return confirm('Delete user {{ u.username }}?')">
+                  <i class="bi bi-trash"></i>
+                </button>
+              </form>
+              {% else %}
+              <span style="color:#94a3b8;font-size:.8rem;">—</span>
+              {% endif %}
+            </td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+{% endblock %}

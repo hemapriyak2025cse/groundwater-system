@@ -1,0 +1,2401 @@
+state,district,year,water_usage_mcm
+Punjab,Ludhiana,2000,124.64
+Punjab,Ludhiana,2001,222.34
+Punjab,Ludhiana,2002,175.46
+Punjab,Ludhiana,2003,195.81
+Punjab,Ludhiana,2004,261.26
+Punjab,Ludhiana,2005,273.74
+Punjab,Ludhiana,2006,319.69
+Punjab,Ludhiana,2007,271.22
+Punjab,Ludhiana,2008,109.7
+Punjab,Ludhiana,2009,285.73
+Punjab,Ludhiana,2010,337.48
+Punjab,Ludhiana,2011,256.04
+Punjab,Ludhiana,2012,447.58
+Punjab,Ludhiana,2013,304.49
+Punjab,Ludhiana,2014,223.19
+Punjab,Ludhiana,2015,201.44
+Punjab,Ludhiana,2016,161.47
+Punjab,Ludhiana,2017,260.29
+Punjab,Ludhiana,2018,310.1
+Punjab,Ludhiana,2019,168.35
+Punjab,Ludhiana,2020,466.52
+Punjab,Ludhiana,2021,337.57
+Punjab,Ludhiana,2022,141.76
+Punjab,Ludhiana,2023,261.68
+Punjab,Amritsar,2000,103.61
+Punjab,Amritsar,2001,230.8
+Punjab,Amritsar,2002,399.13
+Punjab,Amritsar,2003,357.86
+Punjab,Amritsar,2004,370.98
+Punjab,Amritsar,2005,265.15
+Punjab,Amritsar,2006,152.5
+Punjab,Amritsar,2007,121.96
+Punjab,Amritsar,2008,268.76
+Punjab,Amritsar,2009,136.15
+Punjab,Amritsar,2010,181.35
+Punjab,Amritsar,2011,286.24
+Punjab,Amritsar,2012,159.8
+Punjab,Amritsar,2013,152.82
+Punjab,Amritsar,2014,258.93
+Punjab,Amritsar,2015,325.43
+Punjab,Amritsar,2016,360.73
+Punjab,Amritsar,2017,185.94
+Punjab,Amritsar,2018,473.55
+Punjab,Amritsar,2019,236.2
+Punjab,Amritsar,2020,207.06
+Punjab,Amritsar,2021,305.83
+Punjab,Amritsar,2022,117.47
+Punjab,Amritsar,2023,115.03
+Punjab,Jalandhar,2000,383.51
+Punjab,Jalandhar,2001,249.91
+Punjab,Jalandhar,2002,98.36
+Punjab,Jalandhar,2003,152.16
+Punjab,Jalandhar,2004,310.66
+Punjab,Jalandhar,2005,246.04
+Punjab,Jalandhar,2006,126.43
+Punjab,Jalandhar,2007,118.3
+Punjab,Jalandhar,2008,164.1
+Punjab,Jalandhar,2009,197.07
+Punjab,Jalandhar,2010,360.48
+Punjab,Jalandhar,2011,238.1
+Punjab,Jalandhar,2012,411.44
+Punjab,Jalandhar,2013,398.02
+Punjab,Jalandhar,2014,397.99
+Punjab,Jalandhar,2015,227.87
+Punjab,Jalandhar,2016,424.82
+Punjab,Jalandhar,2017,215.43
+Punjab,Jalandhar,2018,259.93
+Punjab,Jalandhar,2019,148.2
+Punjab,Jalandhar,2020,384.68
+Punjab,Jalandhar,2021,351.16
+Punjab,Jalandhar,2022,134.48
+Punjab,Jalandhar,2023,465.36
+Punjab,Patiala,2000,222.5
+Punjab,Patiala,2001,219.88
+Punjab,Patiala,2002,259.47
+Punjab,Patiala,2003,247.43
+Punjab,Patiala,2004,252.98
+Punjab,Patiala,2005,405.83
+Punjab,Patiala,2006,198.66
+Punjab,Patiala,2007,266.52
+Punjab,Patiala,2008,195.58
+Punjab,Patiala,2009,225.72
+Punjab,Patiala,2010,387.51
+Punjab,Patiala,2011,286.11
+Punjab,Patiala,2012,263.47
+Punjab,Patiala,2013,142.21
+Punjab,Patiala,2014,327.56
+Punjab,Patiala,2015,318.31
+Punjab,Patiala,2016,321.19
+Punjab,Patiala,2017,199.78
+Punjab,Patiala,2018,115.99
+Punjab,Patiala,2019,383.79
+Punjab,Patiala,2020,247.91
+Punjab,Patiala,2021,355.81
+Punjab,Patiala,2022,318.1
+Punjab,Patiala,2023,363.22
+Punjab,Bathinda,2000,111.49
+Punjab,Bathinda,2001,394.11
+Punjab,Bathinda,2002,159.99
+Punjab,Bathinda,2003,295.1
+Punjab,Bathinda,2004,373.64
+Punjab,Bathinda,2005,152.28
+Punjab,Bathinda,2006,101.9
+Punjab,Bathinda,2007,364.97
+Punjab,Bathinda,2008,243.16
+Punjab,Bathinda,2009,399.35
+Punjab,Bathinda,2010,163.37
+Punjab,Bathinda,2011,248.5
+Punjab,Bathinda,2012,418.33
+Punjab,Bathinda,2013,174.45
+Punjab,Bathinda,2014,243.87
+Punjab,Bathinda,2015,343.67
+Punjab,Bathinda,2016,350.13
+Punjab,Bathinda,2017,175.62
+Punjab,Bathinda,2018,318.56
+Punjab,Bathinda,2019,389.52
+Punjab,Bathinda,2020,258.94
+Punjab,Bathinda,2021,412.37
+Punjab,Bathinda,2022,402.38
+Punjab,Bathinda,2023,280.72
+Haryana,Gurugram,2000,361.27
+Haryana,Gurugram,2001,115.89
+Haryana,Gurugram,2002,279.7
+Haryana,Gurugram,2003,123.57
+Haryana,Gurugram,2004,167.39
+Haryana,Gurugram,2005,309.41
+Haryana,Gurugram,2006,138.77
+Haryana,Gurugram,2007,392.39
+Haryana,Gurugram,2008,199.29
+Haryana,Gurugram,2009,213.35
+Haryana,Gurugram,2010,226.98
+Haryana,Gurugram,2011,284.75
+Haryana,Gurugram,2012,211.15
+Haryana,Gurugram,2013,300.91
+Haryana,Gurugram,2014,391.86
+Haryana,Gurugram,2015,212.33
+Haryana,Gurugram,2016,155.56
+Haryana,Gurugram,2017,399.33
+Haryana,Gurugram,2018,259.14
+Haryana,Gurugram,2019,203.65
+Haryana,Gurugram,2020,209.36
+Haryana,Gurugram,2021,362.59
+Haryana,Gurugram,2022,280.75
+Haryana,Gurugram,2023,324.65
+Haryana,Faridabad,2000,86.18
+Haryana,Faridabad,2001,393.83
+Haryana,Faridabad,2002,231.74
+Haryana,Faridabad,2003,157.47
+Haryana,Faridabad,2004,106.26
+Haryana,Faridabad,2005,224.38
+Haryana,Faridabad,2006,165.86
+Haryana,Faridabad,2007,91.13
+Haryana,Faridabad,2008,414.03
+Haryana,Faridabad,2009,172.82
+Haryana,Faridabad,2010,428.57
+Haryana,Faridabad,2011,373.08
+Haryana,Faridabad,2012,127.48
+Haryana,Faridabad,2013,447.38
+Haryana,Faridabad,2014,155.58
+Haryana,Faridabad,2015,225.65
+Haryana,Faridabad,2016,216.3
+Haryana,Faridabad,2017,215.86
+Haryana,Faridabad,2018,232.37
+Haryana,Faridabad,2019,152.56
+Haryana,Faridabad,2020,244.53
+Haryana,Faridabad,2021,237.95
+Haryana,Faridabad,2022,403.16
+Haryana,Faridabad,2023,246.14
+Haryana,Hisar,2000,378.47
+Haryana,Hisar,2001,334.78
+Haryana,Hisar,2002,379.52
+Haryana,Hisar,2003,185.14
+Haryana,Hisar,2004,269.13
+Haryana,Hisar,2005,137.93
+Haryana,Hisar,2006,179.29
+Haryana,Hisar,2007,284.09
+Haryana,Hisar,2008,169.37
+Haryana,Hisar,2009,384.89
+Haryana,Hisar,2010,211.96
+Haryana,Hisar,2011,374.3
+Haryana,Hisar,2012,301.88
+Haryana,Hisar,2013,361.94
+Haryana,Hisar,2014,161.42
+Haryana,Hisar,2015,409.83
+Haryana,Hisar,2016,171.17
+Haryana,Hisar,2017,349.83
+Haryana,Hisar,2018,411.39
+Haryana,Hisar,2019,164.34
+Haryana,Hisar,2020,144.02
+Haryana,Hisar,2021,440.46
+Haryana,Hisar,2022,168.56
+Haryana,Hisar,2023,244.79
+Haryana,Rohtak,2000,343.16
+Haryana,Rohtak,2001,240.55
+Haryana,Rohtak,2002,294.86
+Haryana,Rohtak,2003,117.53
+Haryana,Rohtak,2004,254.29
+Haryana,Rohtak,2005,228.87
+Haryana,Rohtak,2006,119.27
+Haryana,Rohtak,2007,212.8
+Haryana,Rohtak,2008,185.8
+Haryana,Rohtak,2009,124.42
+Haryana,Rohtak,2010,237.68
+Haryana,Rohtak,2011,213.21
+Haryana,Rohtak,2012,153.11
+Haryana,Rohtak,2013,421.24
+Haryana,Rohtak,2014,255.14
+Haryana,Rohtak,2015,188.99
+Haryana,Rohtak,2016,143.28
+Haryana,Rohtak,2017,165.83
+Haryana,Rohtak,2018,316.79
+Haryana,Rohtak,2019,241.26
+Haryana,Rohtak,2020,213.61
+Haryana,Rohtak,2021,307.48
+Haryana,Rohtak,2022,166.66
+Haryana,Rohtak,2023,250.54
+Haryana,Karnal,2000,323.25
+Haryana,Karnal,2001,177.05
+Haryana,Karnal,2002,361.47
+Haryana,Karnal,2003,345.36
+Haryana,Karnal,2004,225.71
+Haryana,Karnal,2005,200.54
+Haryana,Karnal,2006,389.28
+Haryana,Karnal,2007,277.36
+Haryana,Karnal,2008,169.85
+Haryana,Karnal,2009,181.15
+Haryana,Karnal,2010,366.03
+Haryana,Karnal,2011,121.04
+Haryana,Karnal,2012,239.51
+Haryana,Karnal,2013,358.62
+Haryana,Karnal,2014,180.31
+Haryana,Karnal,2015,243.75
+Haryana,Karnal,2016,241.78
+Haryana,Karnal,2017,196.3
+Haryana,Karnal,2018,236.2
+Haryana,Karnal,2019,318.14
+Haryana,Karnal,2020,148.19
+Haryana,Karnal,2021,136.06
+Haryana,Karnal,2022,126.93
+Haryana,Karnal,2023,187.74
+Rajasthan,Jaipur,2000,313.88
+Rajasthan,Jaipur,2001,208.25
+Rajasthan,Jaipur,2002,264.54
+Rajasthan,Jaipur,2003,183.22
+Rajasthan,Jaipur,2004,233.49
+Rajasthan,Jaipur,2005,255.06
+Rajasthan,Jaipur,2006,107.3
+Rajasthan,Jaipur,2007,319.76
+Rajasthan,Jaipur,2008,175.28
+Rajasthan,Jaipur,2009,132.83
+Rajasthan,Jaipur,2010,221.96
+Rajasthan,Jaipur,2011,210.15
+Rajasthan,Jaipur,2012,324.06
+Rajasthan,Jaipur,2013,221.6
+Rajasthan,Jaipur,2014,422.48
+Rajasthan,Jaipur,2015,233.44
+Rajasthan,Jaipur,2016,166.92
+Rajasthan,Jaipur,2017,377.3
+Rajasthan,Jaipur,2018,177.65
+Rajasthan,Jaipur,2019,358.92
+Rajasthan,Jaipur,2020,222.63
+Rajasthan,Jaipur,2021,236.67
+Rajasthan,Jaipur,2022,176.29
+Rajasthan,Jaipur,2023,206.59
+Rajasthan,Jodhpur,2000,203.78
+Rajasthan,Jodhpur,2001,252.84
+Rajasthan,Jodhpur,2002,220.34
+Rajasthan,Jodhpur,2003,291.33
+Rajasthan,Jodhpur,2004,241.89
+Rajasthan,Jodhpur,2005,402.58
+Rajasthan,Jodhpur,2006,361.37
+Rajasthan,Jodhpur,2007,109.3
+Rajasthan,Jodhpur,2008,316.54
+Rajasthan,Jodhpur,2009,151.51
+Rajasthan,Jodhpur,2010,248.62
+Rajasthan,Jodhpur,2011,280.82
+Rajasthan,Jodhpur,2012,383.69
+Rajasthan,Jodhpur,2013,416.84
+Rajasthan,Jodhpur,2014,323.07
+Rajasthan,Jodhpur,2015,260.28
+Rajasthan,Jodhpur,2016,384.83
+Rajasthan,Jodhpur,2017,240.14
+Rajasthan,Jodhpur,2018,293.71
+Rajasthan,Jodhpur,2019,354.57
+Rajasthan,Jodhpur,2020,300.87
+Rajasthan,Jodhpur,2021,233.51
+Rajasthan,Jodhpur,2022,421.2
+Rajasthan,Jodhpur,2023,291.44
+Rajasthan,Bikaner,2000,129.45
+Rajasthan,Bikaner,2001,305.66
+Rajasthan,Bikaner,2002,139.62
+Rajasthan,Bikaner,2003,251.9
+Rajasthan,Bikaner,2004,386.04
+Rajasthan,Bikaner,2005,203.53
+Rajasthan,Bikaner,2006,158.84
+Rajasthan,Bikaner,2007,239.43
+Rajasthan,Bikaner,2008,334.4
+Rajasthan,Bikaner,2009,216.66
+Rajasthan,Bikaner,2010,370.6
+Rajasthan,Bikaner,2011,164.13
+Rajasthan,Bikaner,2012,260.48
+Rajasthan,Bikaner,2013,368.6
+Rajasthan,Bikaner,2014,296.09
+Rajasthan,Bikaner,2015,307.15
+Rajasthan,Bikaner,2016,240.54
+Rajasthan,Bikaner,2017,249.43
+Rajasthan,Bikaner,2018,190.33
+Rajasthan,Bikaner,2019,173.17
+Rajasthan,Bikaner,2020,308.48
+Rajasthan,Bikaner,2021,213.33
+Rajasthan,Bikaner,2022,357.49
+Rajasthan,Bikaner,2023,272.43
+Rajasthan,Kota,2000,343.36
+Rajasthan,Kota,2001,390.25
+Rajasthan,Kota,2002,383.18
+Rajasthan,Kota,2003,344.99
+Rajasthan,Kota,2004,130.18
+Rajasthan,Kota,2005,302.57
+Rajasthan,Kota,2006,248.17
+Rajasthan,Kota,2007,162.16
+Rajasthan,Kota,2008,358.13
+Rajasthan,Kota,2009,410.29
+Rajasthan,Kota,2010,250.94
+Rajasthan,Kota,2011,400.28
+Rajasthan,Kota,2012,307.72
+Rajasthan,Kota,2013,163.83
+Rajasthan,Kota,2014,371.3
+Rajasthan,Kota,2015,396.0
+Rajasthan,Kota,2016,179.52
+Rajasthan,Kota,2017,325.41
+Rajasthan,Kota,2018,261.67
+Rajasthan,Kota,2019,176.21
+Rajasthan,Kota,2020,278.17
+Rajasthan,Kota,2021,175.83
+Rajasthan,Kota,2022,193.32
+Rajasthan,Kota,2023,176.65
+Rajasthan,Udaipur,2000,197.3
+Rajasthan,Udaipur,2001,138.35
+Rajasthan,Udaipur,2002,140.37
+Rajasthan,Udaipur,2003,291.43
+Rajasthan,Udaipur,2004,237.74
+Rajasthan,Udaipur,2005,341.58
+Rajasthan,Udaipur,2006,262.14
+Rajasthan,Udaipur,2007,160.68
+Rajasthan,Udaipur,2008,415.19
+Rajasthan,Udaipur,2009,230.96
+Rajasthan,Udaipur,2010,351.51
+Rajasthan,Udaipur,2011,394.12
+Rajasthan,Udaipur,2012,315.69
+Rajasthan,Udaipur,2013,251.26
+Rajasthan,Udaipur,2014,168.88
+Rajasthan,Udaipur,2015,309.26
+Rajasthan,Udaipur,2016,104.62
+Rajasthan,Udaipur,2017,162.17
+Rajasthan,Udaipur,2018,165.81
+Rajasthan,Udaipur,2019,265.96
+Rajasthan,Udaipur,2020,268.95
+Rajasthan,Udaipur,2021,322.59
+Rajasthan,Udaipur,2022,347.08
+Rajasthan,Udaipur,2023,316.52
+Gujarat,Ahmedabad,2000,263.13
+Gujarat,Ahmedabad,2001,291.67
+Gujarat,Ahmedabad,2002,270.75
+Gujarat,Ahmedabad,2003,116.84
+Gujarat,Ahmedabad,2004,252.59
+Gujarat,Ahmedabad,2005,177.94
+Gujarat,Ahmedabad,2006,254.59
+Gujarat,Ahmedabad,2007,133.13
+Gujarat,Ahmedabad,2008,193.22
+Gujarat,Ahmedabad,2009,228.61
+Gujarat,Ahmedabad,2010,149.37
+Gujarat,Ahmedabad,2011,161.12
+Gujarat,Ahmedabad,2012,292.38
+Gujarat,Ahmedabad,2013,276.99
+Gujarat,Ahmedabad,2014,201.82
+Gujarat,Ahmedabad,2015,152.4
+Gujarat,Ahmedabad,2016,199.5
+Gujarat,Ahmedabad,2017,195.61
+Gujarat,Ahmedabad,2018,123.86
+Gujarat,Ahmedabad,2019,269.87
+Gujarat,Ahmedabad,2020,325.15
+Gujarat,Ahmedabad,2021,268.0
+Gujarat,Ahmedabad,2022,279.25
+Gujarat,Ahmedabad,2023,217.04
+Gujarat,Surat,2000,373.85
+Gujarat,Surat,2001,171.3
+Gujarat,Surat,2002,318.42
+Gujarat,Surat,2003,315.31
+Gujarat,Surat,2004,227.54
+Gujarat,Surat,2005,348.82
+Gujarat,Surat,2006,295.31
+Gujarat,Surat,2007,270.52
+Gujarat,Surat,2008,389.08
+Gujarat,Surat,2009,420.55
+Gujarat,Surat,2010,119.2
+Gujarat,Surat,2011,272.85
+Gujarat,Surat,2012,412.94
+Gujarat,Surat,2013,280.4
+Gujarat,Surat,2014,289.91
+Gujarat,Surat,2015,315.81
+Gujarat,Surat,2016,208.24
+Gujarat,Surat,2017,261.95
+Gujarat,Surat,2018,364.68
+Gujarat,Surat,2019,285.98
+Gujarat,Surat,2020,179.4
+Gujarat,Surat,2021,390.98
+Gujarat,Surat,2022,313.17
+Gujarat,Surat,2023,252.54
+Gujarat,Vadodara,2000,140.36
+Gujarat,Vadodara,2001,84.35
+Gujarat,Vadodara,2002,321.13
+Gujarat,Vadodara,2003,185.36
+Gujarat,Vadodara,2004,384.39
+Gujarat,Vadodara,2005,151.49
+Gujarat,Vadodara,2006,346.93
+Gujarat,Vadodara,2007,112.04
+Gujarat,Vadodara,2008,242.68
+Gujarat,Vadodara,2009,180.96
+Gujarat,Vadodara,2010,391.02
+Gujarat,Vadodara,2011,150.74
+Gujarat,Vadodara,2012,287.27
+Gujarat,Vadodara,2013,131.04
+Gujarat,Vadodara,2014,177.4
+Gujarat,Vadodara,2015,290.93
+Gujarat,Vadodara,2016,147.26
+Gujarat,Vadodara,2017,128.18
+Gujarat,Vadodara,2018,337.8
+Gujarat,Vadodara,2019,248.72
+Gujarat,Vadodara,2020,169.28
+Gujarat,Vadodara,2021,255.92
+Gujarat,Vadodara,2022,184.5
+Gujarat,Vadodara,2023,402.39
+Gujarat,Rajkot,2000,225.71
+Gujarat,Rajkot,2001,330.01
+Gujarat,Rajkot,2002,123.32
+Gujarat,Rajkot,2003,163.8
+Gujarat,Rajkot,2004,244.56
+Gujarat,Rajkot,2005,376.36
+Gujarat,Rajkot,2006,193.29
+Gujarat,Rajkot,2007,225.63
+Gujarat,Rajkot,2008,354.92
+Gujarat,Rajkot,2009,324.08
+Gujarat,Rajkot,2010,171.44
+Gujarat,Rajkot,2011,335.14
+Gujarat,Rajkot,2012,274.85
+Gujarat,Rajkot,2013,329.57
+Gujarat,Rajkot,2014,335.91
+Gujarat,Rajkot,2015,105.22
+Gujarat,Rajkot,2016,230.86
+Gujarat,Rajkot,2017,242.61
+Gujarat,Rajkot,2018,317.38
+Gujarat,Rajkot,2019,211.5
+Gujarat,Rajkot,2020,276.69
+Gujarat,Rajkot,2021,317.08
+Gujarat,Rajkot,2022,185.58
+Gujarat,Rajkot,2023,467.44
+Gujarat,Gandhinagar,2000,302.34
+Gujarat,Gandhinagar,2001,152.57
+Gujarat,Gandhinagar,2002,239.48
+Gujarat,Gandhinagar,2003,379.56
+Gujarat,Gandhinagar,2004,238.62
+Gujarat,Gandhinagar,2005,355.55
+Gujarat,Gandhinagar,2006,162.11
+Gujarat,Gandhinagar,2007,194.91
+Gujarat,Gandhinagar,2008,244.73
+Gujarat,Gandhinagar,2009,208.69
+Gujarat,Gandhinagar,2010,279.55
+Gujarat,Gandhinagar,2011,247.92
+Gujarat,Gandhinagar,2012,133.75
+Gujarat,Gandhinagar,2013,273.59
+Gujarat,Gandhinagar,2014,404.43
+Gujarat,Gandhinagar,2015,277.4
+Gujarat,Gandhinagar,2016,187.57
+Gujarat,Gandhinagar,2017,236.11
+Gujarat,Gandhinagar,2018,309.38
+Gujarat,Gandhinagar,2019,328.24
+Gujarat,Gandhinagar,2020,206.26
+Gujarat,Gandhinagar,2021,311.06
+Gujarat,Gandhinagar,2022,176.24
+Gujarat,Gandhinagar,2023,318.28
+Maharashtra,Pune,2000,346.17
+Maharashtra,Pune,2001,284.41
+Maharashtra,Pune,2002,276.94
+Maharashtra,Pune,2003,218.18
+Maharashtra,Pune,2004,257.45
+Maharashtra,Pune,2005,328.41
+Maharashtra,Pune,2006,401.46
+Maharashtra,Pune,2007,110.83
+Maharashtra,Pune,2008,369.18
+Maharashtra,Pune,2009,283.84
+Maharashtra,Pune,2010,167.64
+Maharashtra,Pune,2011,152.79
+Maharashtra,Pune,2012,327.67
+Maharashtra,Pune,2013,415.12
+Maharashtra,Pune,2014,314.23
+Maharashtra,Pune,2015,191.32
+Maharashtra,Pune,2016,174.8
+Maharashtra,Pune,2017,450.31
+Maharashtra,Pune,2018,242.07
+Maharashtra,Pune,2019,208.75
+Maharashtra,Pune,2020,201.84
+Maharashtra,Pune,2021,140.22
+Maharashtra,Pune,2022,204.68
+Maharashtra,Pune,2023,333.47
+Maharashtra,Nashik,2000,277.19
+Maharashtra,Nashik,2001,182.24
+Maharashtra,Nashik,2002,360.88
+Maharashtra,Nashik,2003,110.14
+Maharashtra,Nashik,2004,205.1
+Maharashtra,Nashik,2005,148.78
+Maharashtra,Nashik,2006,244.25
+Maharashtra,Nashik,2007,417.63
+Maharashtra,Nashik,2008,378.77
+Maharashtra,Nashik,2009,314.49
+Maharashtra,Nashik,2010,305.35
+Maharashtra,Nashik,2011,277.82
+Maharashtra,Nashik,2012,168.36
+Maharashtra,Nashik,2013,346.58
+Maharashtra,Nashik,2014,365.34
+Maharashtra,Nashik,2015,274.87
+Maharashtra,Nashik,2016,339.33
+Maharashtra,Nashik,2017,202.1
+Maharashtra,Nashik,2018,193.97
+Maharashtra,Nashik,2019,384.48
+Maharashtra,Nashik,2020,215.21
+Maharashtra,Nashik,2021,397.21
+Maharashtra,Nashik,2022,389.11
+Maharashtra,Nashik,2023,324.33
+Maharashtra,Nagpur,2000,397.34
+Maharashtra,Nagpur,2001,231.9
+Maharashtra,Nagpur,2002,170.77
+Maharashtra,Nagpur,2003,343.22
+Maharashtra,Nagpur,2004,373.13
+Maharashtra,Nagpur,2005,214.47
+Maharashtra,Nagpur,2006,257.71
+Maharashtra,Nagpur,2007,201.77
+Maharashtra,Nagpur,2008,392.23
+Maharashtra,Nagpur,2009,140.77
+Maharashtra,Nagpur,2010,358.82
+Maharashtra,Nagpur,2011,398.48
+Maharashtra,Nagpur,2012,179.42
+Maharashtra,Nagpur,2013,175.08
+Maharashtra,Nagpur,2014,315.39
+Maharashtra,Nagpur,2015,142.07
+Maharashtra,Nagpur,2016,446.78
+Maharashtra,Nagpur,2017,259.56
+Maharashtra,Nagpur,2018,160.32
+Maharashtra,Nagpur,2019,220.77
+Maharashtra,Nagpur,2020,199.29
+Maharashtra,Nagpur,2021,253.1
+Maharashtra,Nagpur,2022,335.06
+Maharashtra,Nagpur,2023,220.55
+Maharashtra,Aurangabad,2000,388.81
+Maharashtra,Aurangabad,2001,348.15
+Maharashtra,Aurangabad,2002,362.15
+Maharashtra,Aurangabad,2003,203.51
+Maharashtra,Aurangabad,2004,378.34
+Maharashtra,Aurangabad,2005,153.76
+Maharashtra,Aurangabad,2006,148.37
+Maharashtra,Aurangabad,2007,136.86
+Maharashtra,Aurangabad,2008,363.0
+Maharashtra,Aurangabad,2009,154.01
+Maharashtra,Aurangabad,2010,167.9
+Maharashtra,Aurangabad,2011,204.92
+Maharashtra,Aurangabad,2012,190.35
+Maharashtra,Aurangabad,2013,344.1
+Maharashtra,Aurangabad,2014,296.21
+Maharashtra,Aurangabad,2015,226.18
+Maharashtra,Aurangabad,2016,404.46
+Maharashtra,Aurangabad,2017,202.71
+Maharashtra,Aurangabad,2018,360.47
+Maharashtra,Aurangabad,2019,366.46
+Maharashtra,Aurangabad,2020,377.29
+Maharashtra,Aurangabad,2021,373.56
+Maharashtra,Aurangabad,2022,363.7
+Maharashtra,Aurangabad,2023,426.14
+Maharashtra,Solapur,2000,175.31
+Maharashtra,Solapur,2001,395.64
+Maharashtra,Solapur,2002,229.25
+Maharashtra,Solapur,2003,256.94
+Maharashtra,Solapur,2004,225.8
+Maharashtra,Solapur,2005,340.54
+Maharashtra,Solapur,2006,215.91
+Maharashtra,Solapur,2007,296.66
+Maharashtra,Solapur,2008,185.95
+Maharashtra,Solapur,2009,124.2
+Maharashtra,Solapur,2010,210.59
+Maharashtra,Solapur,2011,315.69
+Maharashtra,Solapur,2012,265.07
+Maharashtra,Solapur,2013,417.25
+Maharashtra,Solapur,2014,403.78
+Maharashtra,Solapur,2015,157.05
+Maharashtra,Solapur,2016,229.4
+Maharashtra,Solapur,2017,313.75
+Maharashtra,Solapur,2018,424.65
+Maharashtra,Solapur,2019,250.72
+Maharashtra,Solapur,2020,413.25
+Maharashtra,Solapur,2021,199.66
+Maharashtra,Solapur,2022,264.26
+Maharashtra,Solapur,2023,172.83
+Uttar Pradesh,Lucknow,2000,328.21
+Uttar Pradesh,Lucknow,2001,232.56
+Uttar Pradesh,Lucknow,2002,103.41
+Uttar Pradesh,Lucknow,2003,344.59
+Uttar Pradesh,Lucknow,2004,162.92
+Uttar Pradesh,Lucknow,2005,236.67
+Uttar Pradesh,Lucknow,2006,158.0
+Uttar Pradesh,Lucknow,2007,284.31
+Uttar Pradesh,Lucknow,2008,394.92
+Uttar Pradesh,Lucknow,2009,377.7
+Uttar Pradesh,Lucknow,2010,99.44
+Uttar Pradesh,Lucknow,2011,309.41
+Uttar Pradesh,Lucknow,2012,386.31
+Uttar Pradesh,Lucknow,2013,176.32
+Uttar Pradesh,Lucknow,2014,412.81
+Uttar Pradesh,Lucknow,2015,340.53
+Uttar Pradesh,Lucknow,2016,160.95
+Uttar Pradesh,Lucknow,2017,174.88
+Uttar Pradesh,Lucknow,2018,312.83
+Uttar Pradesh,Lucknow,2019,181.23
+Uttar Pradesh,Lucknow,2020,324.59
+Uttar Pradesh,Lucknow,2021,271.58
+Uttar Pradesh,Lucknow,2022,234.62
+Uttar Pradesh,Lucknow,2023,358.26
+Uttar Pradesh,Kanpur,2000,351.55
+Uttar Pradesh,Kanpur,2001,377.3
+Uttar Pradesh,Kanpur,2002,125.56
+Uttar Pradesh,Kanpur,2003,393.64
+Uttar Pradesh,Kanpur,2004,215.77
+Uttar Pradesh,Kanpur,2005,272.21
+Uttar Pradesh,Kanpur,2006,376.64
+Uttar Pradesh,Kanpur,2007,303.95
+Uttar Pradesh,Kanpur,2008,147.65
+Uttar Pradesh,Kanpur,2009,332.02
+Uttar Pradesh,Kanpur,2010,394.03
+Uttar Pradesh,Kanpur,2011,98.46
+Uttar Pradesh,Kanpur,2012,336.58
+Uttar Pradesh,Kanpur,2013,167.48
+Uttar Pradesh,Kanpur,2014,402.73
+Uttar Pradesh,Kanpur,2015,169.35
+Uttar Pradesh,Kanpur,2016,360.66
+Uttar Pradesh,Kanpur,2017,270.22
+Uttar Pradesh,Kanpur,2018,458.15
+Uttar Pradesh,Kanpur,2019,285.87
+Uttar Pradesh,Kanpur,2020,410.46
+Uttar Pradesh,Kanpur,2021,319.7
+Uttar Pradesh,Kanpur,2022,170.76
+Uttar Pradesh,Kanpur,2023,422.64
+Uttar Pradesh,Agra,2000,223.33
+Uttar Pradesh,Agra,2001,313.84
+Uttar Pradesh,Agra,2002,383.21
+Uttar Pradesh,Agra,2003,276.4
+Uttar Pradesh,Agra,2004,332.22
+Uttar Pradesh,Agra,2005,405.13
+Uttar Pradesh,Agra,2006,176.46
+Uttar Pradesh,Agra,2007,150.02
+Uttar Pradesh,Agra,2008,132.17
+Uttar Pradesh,Agra,2009,267.9
+Uttar Pradesh,Agra,2010,211.89
+Uttar Pradesh,Agra,2011,201.98
+Uttar Pradesh,Agra,2012,366.05
+Uttar Pradesh,Agra,2013,294.61
+Uttar Pradesh,Agra,2014,354.86
+Uttar Pradesh,Agra,2015,242.78
+Uttar Pradesh,Agra,2016,178.5
+Uttar Pradesh,Agra,2017,330.12
+Uttar Pradesh,Agra,2018,177.89
+Uttar Pradesh,Agra,2019,447.83
+Uttar Pradesh,Agra,2020,382.01
+Uttar Pradesh,Agra,2021,155.19
+Uttar Pradesh,Agra,2022,266.7
+Uttar Pradesh,Agra,2023,455.51
+Uttar Pradesh,Varanasi,2000,297.67
+Uttar Pradesh,Varanasi,2001,102.43
+Uttar Pradesh,Varanasi,2002,401.72
+Uttar Pradesh,Varanasi,2003,212.48
+Uttar Pradesh,Varanasi,2004,157.78
+Uttar Pradesh,Varanasi,2005,288.1
+Uttar Pradesh,Varanasi,2006,137.59
+Uttar Pradesh,Varanasi,2007,116.54
+Uttar Pradesh,Varanasi,2008,298.37
+Uttar Pradesh,Varanasi,2009,287.01
+Uttar Pradesh,Varanasi,2010,247.24
+Uttar Pradesh,Varanasi,2011,127.13
+Uttar Pradesh,Varanasi,2012,180.11
+Uttar Pradesh,Varanasi,2013,331.25
+Uttar Pradesh,Varanasi,2014,171.71
+Uttar Pradesh,Varanasi,2015,338.76
+Uttar Pradesh,Varanasi,2016,387.73
+Uttar Pradesh,Varanasi,2017,304.76
+Uttar Pradesh,Varanasi,2018,210.79
+Uttar Pradesh,Varanasi,2019,311.77
+Uttar Pradesh,Varanasi,2020,163.64
+Uttar Pradesh,Varanasi,2021,269.34
+Uttar Pradesh,Varanasi,2022,276.11
+Uttar Pradesh,Varanasi,2023,238.16
+Uttar Pradesh,Meerut,2000,92.47
+Uttar Pradesh,Meerut,2001,100.93
+Uttar Pradesh,Meerut,2002,261.03
+Uttar Pradesh,Meerut,2003,226.12
+Uttar Pradesh,Meerut,2004,150.98
+Uttar Pradesh,Meerut,2005,203.13
+Uttar Pradesh,Meerut,2006,370.02
+Uttar Pradesh,Meerut,2007,224.34
+Uttar Pradesh,Meerut,2008,426.17
+Uttar Pradesh,Meerut,2009,405.98
+Uttar Pradesh,Meerut,2010,328.44
+Uttar Pradesh,Meerut,2011,408.89
+Uttar Pradesh,Meerut,2012,326.79
+Uttar Pradesh,Meerut,2013,111.83
+Uttar Pradesh,Meerut,2014,288.6
+Uttar Pradesh,Meerut,2015,226.52
+Uttar Pradesh,Meerut,2016,316.12
+Uttar Pradesh,Meerut,2017,300.38
+Uttar Pradesh,Meerut,2018,479.32
+Uttar Pradesh,Meerut,2019,186.87
+Uttar Pradesh,Meerut,2020,303.15
+Uttar Pradesh,Meerut,2021,223.11
+Uttar Pradesh,Meerut,2022,217.7
+Uttar Pradesh,Meerut,2023,295.78
+Bihar,Patna,2000,143.23
+Bihar,Patna,2001,236.89
+Bihar,Patna,2002,146.27
+Bihar,Patna,2003,201.15
+Bihar,Patna,2004,190.88
+Bihar,Patna,2005,377.01
+Bihar,Patna,2006,231.32
+Bihar,Patna,2007,312.13
+Bihar,Patna,2008,353.48
+Bihar,Patna,2009,394.56
+Bihar,Patna,2010,330.43
+Bihar,Patna,2011,231.5
+Bihar,Patna,2012,144.44
+Bihar,Patna,2013,403.26
+Bihar,Patna,2014,230.89
+Bihar,Patna,2015,275.67
+Bihar,Patna,2016,430.19
+Bihar,Patna,2017,111.43
+Bihar,Patna,2018,165.68
+Bihar,Patna,2019,252.28
+Bihar,Patna,2020,195.05
+Bihar,Patna,2021,379.42
+Bihar,Patna,2022,358.35
+Bihar,Patna,2023,198.35
+Bihar,Gaya,2000,337.84
+Bihar,Gaya,2001,238.24
+Bihar,Gaya,2002,309.33
+Bihar,Gaya,2003,322.65
+Bihar,Gaya,2004,295.12
+Bihar,Gaya,2005,395.65
+Bihar,Gaya,2006,361.17
+Bihar,Gaya,2007,136.91
+Bihar,Gaya,2008,431.37
+Bihar,Gaya,2009,351.65
+Bihar,Gaya,2010,165.04
+Bihar,Gaya,2011,397.06
+Bihar,Gaya,2012,387.97
+Bihar,Gaya,2013,385.61
+Bihar,Gaya,2014,420.7
+Bihar,Gaya,2015,418.98
+Bihar,Gaya,2016,366.85
+Bihar,Gaya,2017,213.79
+Bihar,Gaya,2018,345.78
+Bihar,Gaya,2019,369.94
+Bihar,Gaya,2020,350.17
+Bihar,Gaya,2021,329.3
+Bihar,Gaya,2022,418.8
+Bihar,Gaya,2023,291.96
+Bihar,Muzaffarpur,2000,111.23
+Bihar,Muzaffarpur,2001,349.29
+Bihar,Muzaffarpur,2002,299.23
+Bihar,Muzaffarpur,2003,310.41
+Bihar,Muzaffarpur,2004,113.68
+Bihar,Muzaffarpur,2005,408.48
+Bihar,Muzaffarpur,2006,246.6
+Bihar,Muzaffarpur,2007,280.3
+Bihar,Muzaffarpur,2008,286.2
+Bihar,Muzaffarpur,2009,366.92
+Bihar,Muzaffarpur,2010,158.08
+Bihar,Muzaffarpur,2011,258.39
+Bihar,Muzaffarpur,2012,409.99
+Bihar,Muzaffarpur,2013,224.75
+Bihar,Muzaffarpur,2014,293.47
+Bihar,Muzaffarpur,2015,449.03
+Bihar,Muzaffarpur,2016,299.17
+Bihar,Muzaffarpur,2017,312.51
+Bihar,Muzaffarpur,2018,276.25
+Bihar,Muzaffarpur,2019,479.58
+Bihar,Muzaffarpur,2020,403.43
+Bihar,Muzaffarpur,2021,366.37
+Bihar,Muzaffarpur,2022,296.03
+Bihar,Muzaffarpur,2023,288.73
+Bihar,Bhagalpur,2000,332.6
+Bihar,Bhagalpur,2001,399.29
+Bihar,Bhagalpur,2002,279.08
+Bihar,Bhagalpur,2003,113.49
+Bihar,Bhagalpur,2004,237.09
+Bihar,Bhagalpur,2005,377.38
+Bihar,Bhagalpur,2006,303.63
+Bihar,Bhagalpur,2007,329.22
+Bihar,Bhagalpur,2008,272.62
+Bihar,Bhagalpur,2009,183.58
+Bihar,Bhagalpur,2010,157.04
+Bihar,Bhagalpur,2011,312.1
+Bihar,Bhagalpur,2012,114.78
+Bihar,Bhagalpur,2013,224.63
+Bihar,Bhagalpur,2014,292.52
+Bihar,Bhagalpur,2015,286.83
+Bihar,Bhagalpur,2016,266.21
+Bihar,Bhagalpur,2017,371.24
+Bihar,Bhagalpur,2018,284.05
+Bihar,Bhagalpur,2019,249.4
+Bihar,Bhagalpur,2020,202.09
+Bihar,Bhagalpur,2021,213.45
+Bihar,Bhagalpur,2022,357.73
+Bihar,Bhagalpur,2023,251.55
+Bihar,Darbhanga,2000,366.2
+Bihar,Darbhanga,2001,93.36
+Bihar,Darbhanga,2002,361.89
+Bihar,Darbhanga,2003,152.7
+Bihar,Darbhanga,2004,306.3
+Bihar,Darbhanga,2005,156.2
+Bihar,Darbhanga,2006,410.27
+Bihar,Darbhanga,2007,284.13
+Bihar,Darbhanga,2008,408.61
+Bihar,Darbhanga,2009,296.7
+Bihar,Darbhanga,2010,324.28
+Bihar,Darbhanga,2011,360.17
+Bihar,Darbhanga,2012,340.95
+Bihar,Darbhanga,2013,292.73
+Bihar,Darbhanga,2014,232.99
+Bihar,Darbhanga,2015,391.28
+Bihar,Darbhanga,2016,243.07
+Bihar,Darbhanga,2017,319.44
+Bihar,Darbhanga,2018,253.62
+Bihar,Darbhanga,2019,371.6
+Bihar,Darbhanga,2020,429.11
+Bihar,Darbhanga,2021,435.52
+Bihar,Darbhanga,2022,213.93
+Bihar,Darbhanga,2023,203.46
+West Bengal,Kolkata,2000,335.37
+West Bengal,Kolkata,2001,338.29
+West Bengal,Kolkata,2002,198.95
+West Bengal,Kolkata,2003,266.25
+West Bengal,Kolkata,2004,266.46
+West Bengal,Kolkata,2005,337.54
+West Bengal,Kolkata,2006,299.67
+West Bengal,Kolkata,2007,186.54
+West Bengal,Kolkata,2008,223.37
+West Bengal,Kolkata,2009,360.14
+West Bengal,Kolkata,2010,122.13
+West Bengal,Kolkata,2011,320.33
+West Bengal,Kolkata,2012,319.65
+West Bengal,Kolkata,2013,265.45
+West Bengal,Kolkata,2014,136.08
+West Bengal,Kolkata,2015,335.5
+West Bengal,Kolkata,2016,135.33
+West Bengal,Kolkata,2017,305.71
+West Bengal,Kolkata,2018,215.23
+West Bengal,Kolkata,2019,359.67
+West Bengal,Kolkata,2020,138.67
+West Bengal,Kolkata,2021,234.05
+West Bengal,Kolkata,2022,319.27
+West Bengal,Kolkata,2023,447.8
+West Bengal,Howrah,2000,99.56
+West Bengal,Howrah,2001,245.52
+West Bengal,Howrah,2002,293.97
+West Bengal,Howrah,2003,173.73
+West Bengal,Howrah,2004,413.14
+West Bengal,Howrah,2005,370.79
+West Bengal,Howrah,2006,180.82
+West Bengal,Howrah,2007,135.62
+West Bengal,Howrah,2008,168.66
+West Bengal,Howrah,2009,200.01
+West Bengal,Howrah,2010,133.26
+West Bengal,Howrah,2011,363.48
+West Bengal,Howrah,2012,411.99
+West Bengal,Howrah,2013,171.17
+West Bengal,Howrah,2014,160.79
+West Bengal,Howrah,2015,206.43
+West Bengal,Howrah,2016,269.1
+West Bengal,Howrah,2017,147.14
+West Bengal,Howrah,2018,291.05
+West Bengal,Howrah,2019,220.17
+West Bengal,Howrah,2020,335.05
+West Bengal,Howrah,2021,320.09
+West Bengal,Howrah,2022,206.06
+West Bengal,Howrah,2023,391.12
+West Bengal,Durgapur,2000,158.66
+West Bengal,Durgapur,2001,108.62
+West Bengal,Durgapur,2002,116.52
+West Bengal,Durgapur,2003,369.81
+West Bengal,Durgapur,2004,134.09
+West Bengal,Durgapur,2005,303.81
+West Bengal,Durgapur,2006,396.74
+West Bengal,Durgapur,2007,325.75
+West Bengal,Durgapur,2008,318.01
+West Bengal,Durgapur,2009,284.31
+West Bengal,Durgapur,2010,237.19
+West Bengal,Durgapur,2011,101.67
+West Bengal,Durgapur,2012,338.61
+West Bengal,Durgapur,2013,191.72
+West Bengal,Durgapur,2014,334.88
+West Bengal,Durgapur,2015,217.99
+West Bengal,Durgapur,2016,396.98
+West Bengal,Durgapur,2017,358.31
+West Bengal,Durgapur,2018,301.43
+West Bengal,Durgapur,2019,288.99
+West Bengal,Durgapur,2020,337.11
+West Bengal,Durgapur,2021,271.17
+West Bengal,Durgapur,2022,364.42
+West Bengal,Durgapur,2023,228.63
+West Bengal,Asansol,2000,339.99
+West Bengal,Asansol,2001,200.6
+West Bengal,Asansol,2002,350.52
+West Bengal,Asansol,2003,256.6
+West Bengal,Asansol,2004,162.9
+West Bengal,Asansol,2005,388.26
+West Bengal,Asansol,2006,200.33
+West Bengal,Asansol,2007,359.09
+West Bengal,Asansol,2008,374.88
+West Bengal,Asansol,2009,153.48
+West Bengal,Asansol,2010,292.01
+West Bengal,Asansol,2011,196.36
+West Bengal,Asansol,2012,367.85
+West Bengal,Asansol,2013,270.6
+West Bengal,Asansol,2014,363.91
+West Bengal,Asansol,2015,251.78
+West Bengal,Asansol,2016,244.77
+West Bengal,Asansol,2017,253.43
+West Bengal,Asansol,2018,188.83
+West Bengal,Asansol,2019,394.34
+West Bengal,Asansol,2020,294.73
+West Bengal,Asansol,2021,300.26
+West Bengal,Asansol,2022,251.8
+West Bengal,Asansol,2023,419.97
+West Bengal,Siliguri,2000,203.24
+West Bengal,Siliguri,2001,225.82
+West Bengal,Siliguri,2002,377.31
+West Bengal,Siliguri,2003,394.93
+West Bengal,Siliguri,2004,215.69
+West Bengal,Siliguri,2005,127.9
+West Bengal,Siliguri,2006,123.67
+West Bengal,Siliguri,2007,405.78
+West Bengal,Siliguri,2008,415.11
+West Bengal,Siliguri,2009,253.25
+West Bengal,Siliguri,2010,179.39
+West Bengal,Siliguri,2011,174.67
+West Bengal,Siliguri,2012,369.35
+West Bengal,Siliguri,2013,274.72
+West Bengal,Siliguri,2014,275.03
+West Bengal,Siliguri,2015,160.42
+West Bengal,Siliguri,2016,348.5
+West Bengal,Siliguri,2017,369.61
+West Bengal,Siliguri,2018,280.85
+West Bengal,Siliguri,2019,316.72
+West Bengal,Siliguri,2020,335.32
+West Bengal,Siliguri,2021,379.84
+West Bengal,Siliguri,2022,233.31
+West Bengal,Siliguri,2023,353.4
+Tamil Nadu,Chennai,2000,185.69
+Tamil Nadu,Chennai,2001,347.34
+Tamil Nadu,Chennai,2002,178.02
+Tamil Nadu,Chennai,2003,179.07
+Tamil Nadu,Chennai,2004,146.25
+Tamil Nadu,Chennai,2005,214.06
+Tamil Nadu,Chennai,2006,146.27
+Tamil Nadu,Chennai,2007,184.65
+Tamil Nadu,Chennai,2008,308.86
+Tamil Nadu,Chennai,2009,116.89
+Tamil Nadu,Chennai,2010,393.38
+Tamil Nadu,Chennai,2011,207.04
+Tamil Nadu,Chennai,2012,232.75
+Tamil Nadu,Chennai,2013,178.22
+Tamil Nadu,Chennai,2014,249.2
+Tamil Nadu,Chennai,2015,399.36
+Tamil Nadu,Chennai,2016,429.88
+Tamil Nadu,Chennai,2017,371.03
+Tamil Nadu,Chennai,2018,223.81
+Tamil Nadu,Chennai,2019,272.22
+Tamil Nadu,Chennai,2020,164.43
+Tamil Nadu,Chennai,2021,293.3
+Tamil Nadu,Chennai,2022,427.15
+Tamil Nadu,Chennai,2023,260.51
+Tamil Nadu,Coimbatore,2000,152.13
+Tamil Nadu,Coimbatore,2001,260.25
+Tamil Nadu,Coimbatore,2002,323.05
+Tamil Nadu,Coimbatore,2003,90.77
+Tamil Nadu,Coimbatore,2004,219.52
+Tamil Nadu,Coimbatore,2005,139.62
+Tamil Nadu,Coimbatore,2006,127.94
+Tamil Nadu,Coimbatore,2007,242.75
+Tamil Nadu,Coimbatore,2008,218.25
+Tamil Nadu,Coimbatore,2009,404.64
+Tamil Nadu,Coimbatore,2010,325.69
+Tamil Nadu,Coimbatore,2011,259.43
+Tamil Nadu,Coimbatore,2012,295.09
+Tamil Nadu,Coimbatore,2013,303.97
+Tamil Nadu,Coimbatore,2014,309.88
+Tamil Nadu,Coimbatore,2015,228.85
+Tamil Nadu,Coimbatore,2016,174.73
+Tamil Nadu,Coimbatore,2017,350.18
+Tamil Nadu,Coimbatore,2018,314.23
+Tamil Nadu,Coimbatore,2019,248.3
+Tamil Nadu,Coimbatore,2020,401.17
+Tamil Nadu,Coimbatore,2021,361.1
+Tamil Nadu,Coimbatore,2022,419.58
+Tamil Nadu,Coimbatore,2023,417.45
+Tamil Nadu,Madurai,2000,177.24
+Tamil Nadu,Madurai,2001,243.92
+Tamil Nadu,Madurai,2002,402.85
+Tamil Nadu,Madurai,2003,203.84
+Tamil Nadu,Madurai,2004,360.81
+Tamil Nadu,Madurai,2005,373.15
+Tamil Nadu,Madurai,2006,329.56
+Tamil Nadu,Madurai,2007,356.59
+Tamil Nadu,Madurai,2008,300.88
+Tamil Nadu,Madurai,2009,233.26
+Tamil Nadu,Madurai,2010,404.65
+Tamil Nadu,Madurai,2011,435.06
+Tamil Nadu,Madurai,2012,280.21
+Tamil Nadu,Madurai,2013,340.52
+Tamil Nadu,Madurai,2014,248.55
+Tamil Nadu,Madurai,2015,440.73
+Tamil Nadu,Madurai,2016,152.73
+Tamil Nadu,Madurai,2017,383.99
+Tamil Nadu,Madurai,2018,426.34
+Tamil Nadu,Madurai,2019,172.1
+Tamil Nadu,Madurai,2020,361.05
+Tamil Nadu,Madurai,2021,309.75
+Tamil Nadu,Madurai,2022,163.61
+Tamil Nadu,Madurai,2023,250.81
+Tamil Nadu,Salem,2000,148.94
+Tamil Nadu,Salem,2001,118.23
+Tamil Nadu,Salem,2002,171.75
+Tamil Nadu,Salem,2003,188.01
+Tamil Nadu,Salem,2004,129.04
+Tamil Nadu,Salem,2005,151.46
+Tamil Nadu,Salem,2006,328.28
+Tamil Nadu,Salem,2007,375.93
+Tamil Nadu,Salem,2008,410.42
+Tamil Nadu,Salem,2009,141.79
+Tamil Nadu,Salem,2010,407.24
+Tamil Nadu,Salem,2011,384.29
+Tamil Nadu,Salem,2012,178.6
+Tamil Nadu,Salem,2013,165.89
+Tamil Nadu,Salem,2014,404.18
+Tamil Nadu,Salem,2015,244.22
+Tamil Nadu,Salem,2016,432.89
+Tamil Nadu,Salem,2017,163.82
+Tamil Nadu,Salem,2018,132.51
+Tamil Nadu,Salem,2019,167.91
+Tamil Nadu,Salem,2020,269.46
+Tamil Nadu,Salem,2021,153.49
+Tamil Nadu,Salem,2022,467.52
+Tamil Nadu,Salem,2023,383.75
+Tamil Nadu,Tiruchirappalli,2000,359.87
+Tamil Nadu,Tiruchirappalli,2001,87.96
+Tamil Nadu,Tiruchirappalli,2002,401.72
+Tamil Nadu,Tiruchirappalli,2003,378.99
+Tamil Nadu,Tiruchirappalli,2004,217.25
+Tamil Nadu,Tiruchirappalli,2005,347.74
+Tamil Nadu,Tiruchirappalli,2006,384.34
+Tamil Nadu,Tiruchirappalli,2007,387.51
+Tamil Nadu,Tiruchirappalli,2008,420.17
+Tamil Nadu,Tiruchirappalli,2009,318.06
+Tamil Nadu,Tiruchirappalli,2010,198.69
+Tamil Nadu,Tiruchirappalli,2011,230.04
+Tamil Nadu,Tiruchirappalli,2012,290.04
+Tamil Nadu,Tiruchirappalli,2013,446.24
+Tamil Nadu,Tiruchirappalli,2014,285.34
+Tamil Nadu,Tiruchirappalli,2015,137.3
+Tamil Nadu,Tiruchirappalli,2016,259.58
+Tamil Nadu,Tiruchirappalli,2017,121.85
+Tamil Nadu,Tiruchirappalli,2018,319.73
+Tamil Nadu,Tiruchirappalli,2019,343.18
+Tamil Nadu,Tiruchirappalli,2020,395.72
+Tamil Nadu,Tiruchirappalli,2021,341.01
+Tamil Nadu,Tiruchirappalli,2022,403.7
+Tamil Nadu,Tiruchirappalli,2023,228.54
+Karnataka,Bengaluru,2000,364.79
+Karnataka,Bengaluru,2001,97.2
+Karnataka,Bengaluru,2002,327.16
+Karnataka,Bengaluru,2003,319.38
+Karnataka,Bengaluru,2004,110.19
+Karnataka,Bengaluru,2005,191.68
+Karnataka,Bengaluru,2006,125.55
+Karnataka,Bengaluru,2007,378.34
+Karnataka,Bengaluru,2008,341.17
+Karnataka,Bengaluru,2009,175.97
+Karnataka,Bengaluru,2010,261.36
+Karnataka,Bengaluru,2011,112.11
+Karnataka,Bengaluru,2012,329.39
+Karnataka,Bengaluru,2013,166.09
+Karnataka,Bengaluru,2014,348.5
+Karnataka,Bengaluru,2015,376.78
+Karnataka,Bengaluru,2016,265.55
+Karnataka,Bengaluru,2017,225.78
+Karnataka,Bengaluru,2018,310.44
+Karnataka,Bengaluru,2019,331.64
+Karnataka,Bengaluru,2020,436.54
+Karnataka,Bengaluru,2021,317.75
+Karnataka,Bengaluru,2022,272.98
+Karnataka,Bengaluru,2023,178.97
+Karnataka,Mysuru,2000,146.65
+Karnataka,Mysuru,2001,277.23
+Karnataka,Mysuru,2002,282.48
+Karnataka,Mysuru,2003,122.48
+Karnataka,Mysuru,2004,397.96
+Karnataka,Mysuru,2005,315.2
+Karnataka,Mysuru,2006,282.32
+Karnataka,Mysuru,2007,396.62
+Karnataka,Mysuru,2008,211.35
+Karnataka,Mysuru,2009,384.65
+Karnataka,Mysuru,2010,326.31
+Karnataka,Mysuru,2011,263.93
+Karnataka,Mysuru,2012,137.87
+Karnataka,Mysuru,2013,184.98
+Karnataka,Mysuru,2014,283.38
+Karnataka,Mysuru,2015,348.45
+Karnataka,Mysuru,2016,277.07
+Karnataka,Mysuru,2017,298.56
+Karnataka,Mysuru,2018,191.41
+Karnataka,Mysuru,2019,178.87
+Karnataka,Mysuru,2020,258.54
+Karnataka,Mysuru,2021,280.0
+Karnataka,Mysuru,2022,344.8
+Karnataka,Mysuru,2023,302.26
+Karnataka,Hubli,2000,291.12
+Karnataka,Hubli,2001,376.89
+Karnataka,Hubli,2002,221.66
+Karnataka,Hubli,2003,388.67
+Karnataka,Hubli,2004,323.66
+Karnataka,Hubli,2005,397.85
+Karnataka,Hubli,2006,399.82
+Karnataka,Hubli,2007,244.31
+Karnataka,Hubli,2008,157.95
+Karnataka,Hubli,2009,181.8
+Karnataka,Hubli,2010,287.18
+Karnataka,Hubli,2011,218.98
+Karnataka,Hubli,2012,316.13
+Karnataka,Hubli,2013,385.87
+Karnataka,Hubli,2014,398.25
+Karnataka,Hubli,2015,267.36
+Karnataka,Hubli,2016,315.96
+Karnataka,Hubli,2017,203.41
+Karnataka,Hubli,2018,335.5
+Karnataka,Hubli,2019,302.8
+Karnataka,Hubli,2020,348.31
+Karnataka,Hubli,2021,186.89
+Karnataka,Hubli,2022,356.77
+Karnataka,Hubli,2023,157.13
+Karnataka,Mangaluru,2000,119.91
+Karnataka,Mangaluru,2001,392.66
+Karnataka,Mangaluru,2002,288.83
+Karnataka,Mangaluru,2003,369.68
+Karnataka,Mangaluru,2004,332.81
+Karnataka,Mangaluru,2005,369.85
+Karnataka,Mangaluru,2006,162.05
+Karnataka,Mangaluru,2007,353.29
+Karnataka,Mangaluru,2008,349.98
+Karnataka,Mangaluru,2009,171.9
+Karnataka,Mangaluru,2010,393.11
+Karnataka,Mangaluru,2011,254.06
+Karnataka,Mangaluru,2012,126.79
+Karnataka,Mangaluru,2013,189.24
+Karnataka,Mangaluru,2014,263.69
+Karnataka,Mangaluru,2015,311.6
+Karnataka,Mangaluru,2016,219.71
+Karnataka,Mangaluru,2017,380.94
+Karnataka,Mangaluru,2018,170.92
+Karnataka,Mangaluru,2019,307.14
+Karnataka,Mangaluru,2020,452.13
+Karnataka,Mangaluru,2021,181.72
+Karnataka,Mangaluru,2022,460.43
+Karnataka,Mangaluru,2023,351.14
+Karnataka,Belagavi,2000,194.15
+Karnataka,Belagavi,2001,308.93
+Karnataka,Belagavi,2002,87.41
+Karnataka,Belagavi,2003,258.37
+Karnataka,Belagavi,2004,345.63
+Karnataka,Belagavi,2005,268.53
+Karnataka,Belagavi,2006,396.25
+Karnataka,Belagavi,2007,122.01
+Karnataka,Belagavi,2008,351.69
+Karnataka,Belagavi,2009,113.86
+Karnataka,Belagavi,2010,303.91
+Karnataka,Belagavi,2011,271.06
+Karnataka,Belagavi,2012,229.62
+Karnataka,Belagavi,2013,338.02
+Karnataka,Belagavi,2014,294.46
+Karnataka,Belagavi,2015,365.19
+Karnataka,Belagavi,2016,270.25
+Karnataka,Belagavi,2017,397.86
+Karnataka,Belagavi,2018,253.34
+Karnataka,Belagavi,2019,321.03
+Karnataka,Belagavi,2020,236.57
+Karnataka,Belagavi,2021,362.81
+Karnataka,Belagavi,2022,243.5
+Karnataka,Belagavi,2023,273.2
+Madhya Pradesh,Bhopal,2000,100.65
+Madhya Pradesh,Bhopal,2001,318.72
+Madhya Pradesh,Bhopal,2002,177.88
+Madhya Pradesh,Bhopal,2003,207.38
+Madhya Pradesh,Bhopal,2004,413.97
+Madhya Pradesh,Bhopal,2005,128.07
+Madhya Pradesh,Bhopal,2006,289.92
+Madhya Pradesh,Bhopal,2007,248.19
+Madhya Pradesh,Bhopal,2008,336.06
+Madhya Pradesh,Bhopal,2009,150.95
+Madhya Pradesh,Bhopal,2010,205.26
+Madhya Pradesh,Bhopal,2011,179.42
+Madhya Pradesh,Bhopal,2012,423.6
+Madhya Pradesh,Bhopal,2013,427.47
+Madhya Pradesh,Bhopal,2014,430.74
+Madhya Pradesh,Bhopal,2015,336.93
+Madhya Pradesh,Bhopal,2016,244.51
+Madhya Pradesh,Bhopal,2017,225.03
+Madhya Pradesh,Bhopal,2018,374.21
+Madhya Pradesh,Bhopal,2019,455.89
+Madhya Pradesh,Bhopal,2020,344.52
+Madhya Pradesh,Bhopal,2021,354.61
+Madhya Pradesh,Bhopal,2022,348.17
+Madhya Pradesh,Bhopal,2023,220.94
+Madhya Pradesh,Indore,2000,180.48
+Madhya Pradesh,Indore,2001,120.08
+Madhya Pradesh,Indore,2002,197.89
+Madhya Pradesh,Indore,2003,345.49
+Madhya Pradesh,Indore,2004,388.58
+Madhya Pradesh,Indore,2005,182.57
+Madhya Pradesh,Indore,2006,221.36
+Madhya Pradesh,Indore,2007,390.73
+Madhya Pradesh,Indore,2008,362.21
+Madhya Pradesh,Indore,2009,260.49
+Madhya Pradesh,Indore,2010,175.86
+Madhya Pradesh,Indore,2011,327.46
+Madhya Pradesh,Indore,2012,244.26
+Madhya Pradesh,Indore,2013,159.31
+Madhya Pradesh,Indore,2014,350.75
+Madhya Pradesh,Indore,2015,245.52
+Madhya Pradesh,Indore,2016,313.31
+Madhya Pradesh,Indore,2017,314.48
+Madhya Pradesh,Indore,2018,120.19
+Madhya Pradesh,Indore,2019,394.85
+Madhya Pradesh,Indore,2020,282.17
+Madhya Pradesh,Indore,2021,388.59
+Madhya Pradesh,Indore,2022,192.06
+Madhya Pradesh,Indore,2023,353.74
+Madhya Pradesh,Gwalior,2000,205.19
+Madhya Pradesh,Gwalior,2001,216.2
+Madhya Pradesh,Gwalior,2002,298.55
+Madhya Pradesh,Gwalior,2003,200.18
+Madhya Pradesh,Gwalior,2004,375.92
+Madhya Pradesh,Gwalior,2005,367.62
+Madhya Pradesh,Gwalior,2006,201.1
+Madhya Pradesh,Gwalior,2007,168.87
+Madhya Pradesh,Gwalior,2008,206.08
+Madhya Pradesh,Gwalior,2009,135.49
+Madhya Pradesh,Gwalior,2010,231.94
+Madhya Pradesh,Gwalior,2011,139.33
+Madhya Pradesh,Gwalior,2012,283.69
+Madhya Pradesh,Gwalior,2013,437.77
+Madhya Pradesh,Gwalior,2014,233.39
+Madhya Pradesh,Gwalior,2015,390.2
+Madhya Pradesh,Gwalior,2016,382.12
+Madhya Pradesh,Gwalior,2017,382.14
+Madhya Pradesh,Gwalior,2018,214.61
+Madhya Pradesh,Gwalior,2019,277.52
+Madhya Pradesh,Gwalior,2020,236.25
+Madhya Pradesh,Gwalior,2021,299.72
+Madhya Pradesh,Gwalior,2022,383.7
+Madhya Pradesh,Gwalior,2023,284.96
+Madhya Pradesh,Jabalpur,2000,94.2
+Madhya Pradesh,Jabalpur,2001,188.03
+Madhya Pradesh,Jabalpur,2002,400.02
+Madhya Pradesh,Jabalpur,2003,397.01
+Madhya Pradesh,Jabalpur,2004,283.22
+Madhya Pradesh,Jabalpur,2005,190.77
+Madhya Pradesh,Jabalpur,2006,368.09
+Madhya Pradesh,Jabalpur,2007,169.96
+Madhya Pradesh,Jabalpur,2008,174.14
+Madhya Pradesh,Jabalpur,2009,267.68
+Madhya Pradesh,Jabalpur,2010,368.11
+Madhya Pradesh,Jabalpur,2011,355.82
+Madhya Pradesh,Jabalpur,2012,250.94
+Madhya Pradesh,Jabalpur,2013,421.43
+Madhya Pradesh,Jabalpur,2014,390.67
+Madhya Pradesh,Jabalpur,2015,405.81
+Madhya Pradesh,Jabalpur,2016,219.29
+Madhya Pradesh,Jabalpur,2017,227.13
+Madhya Pradesh,Jabalpur,2018,234.42
+Madhya Pradesh,Jabalpur,2019,324.92
+Madhya Pradesh,Jabalpur,2020,389.04
+Madhya Pradesh,Jabalpur,2021,398.15
+Madhya Pradesh,Jabalpur,2022,351.6
+Madhya Pradesh,Jabalpur,2023,206.56
+Madhya Pradesh,Ujjain,2000,330.75
+Madhya Pradesh,Ujjain,2001,151.77
+Madhya Pradesh,Ujjain,2002,293.17
+Madhya Pradesh,Ujjain,2003,294.67
+Madhya Pradesh,Ujjain,2004,223.59
+Madhya Pradesh,Ujjain,2005,113.27
+Madhya Pradesh,Ujjain,2006,122.94
+Madhya Pradesh,Ujjain,2007,124.61
+Madhya Pradesh,Ujjain,2008,243.71
+Madhya Pradesh,Ujjain,2009,265.75
+Madhya Pradesh,Ujjain,2010,310.27
+Madhya Pradesh,Ujjain,2011,170.2
+Madhya Pradesh,Ujjain,2012,162.75
+Madhya Pradesh,Ujjain,2013,138.71
+Madhya Pradesh,Ujjain,2014,295.62
+Madhya Pradesh,Ujjain,2015,414.18
+Madhya Pradesh,Ujjain,2016,331.76
+Madhya Pradesh,Ujjain,2017,345.56
+Madhya Pradesh,Ujjain,2018,176.62
+Madhya Pradesh,Ujjain,2019,292.86
+Madhya Pradesh,Ujjain,2020,285.54
+Madhya Pradesh,Ujjain,2021,444.7
+Madhya Pradesh,Ujjain,2022,301.83
+Madhya Pradesh,Ujjain,2023,412.9
+Andhra Pradesh,Visakhapatnam,2000,229.24
+Andhra Pradesh,Visakhapatnam,2001,339.11
+Andhra Pradesh,Visakhapatnam,2002,277.69
+Andhra Pradesh,Visakhapatnam,2003,165.82
+Andhra Pradesh,Visakhapatnam,2004,97.89
+Andhra Pradesh,Visakhapatnam,2005,383.18
+Andhra Pradesh,Visakhapatnam,2006,180.54
+Andhra Pradesh,Visakhapatnam,2007,191.49
+Andhra Pradesh,Visakhapatnam,2008,257.96
+Andhra Pradesh,Visakhapatnam,2009,388.72
+Andhra Pradesh,Visakhapatnam,2010,243.27
+Andhra Pradesh,Visakhapatnam,2011,199.34
+Andhra Pradesh,Visakhapatnam,2012,299.92
+Andhra Pradesh,Visakhapatnam,2013,223.34
+Andhra Pradesh,Visakhapatnam,2014,410.5
+Andhra Pradesh,Visakhapatnam,2015,285.92
+Andhra Pradesh,Visakhapatnam,2016,211.7
+Andhra Pradesh,Visakhapatnam,2017,195.05
+Andhra Pradesh,Visakhapatnam,2018,250.33
+Andhra Pradesh,Visakhapatnam,2019,382.43
+Andhra Pradesh,Visakhapatnam,2020,369.83
+Andhra Pradesh,Visakhapatnam,2021,204.49
+Andhra Pradesh,Visakhapatnam,2022,356.05
+Andhra Pradesh,Visakhapatnam,2023,478.2
+Andhra Pradesh,Vijayawada,2000,210.65
+Andhra Pradesh,Vijayawada,2001,128.26
+Andhra Pradesh,Vijayawada,2002,261.69
+Andhra Pradesh,Vijayawada,2003,407.06
+Andhra Pradesh,Vijayawada,2004,294.75
+Andhra Pradesh,Vijayawada,2005,124.48
+Andhra Pradesh,Vijayawada,2006,176.2
+Andhra Pradesh,Vijayawada,2007,394.79
+Andhra Pradesh,Vijayawada,2008,183.04
+Andhra Pradesh,Vijayawada,2009,245.47
+Andhra Pradesh,Vijayawada,2010,140.15
+Andhra Pradesh,Vijayawada,2011,244.55
+Andhra Pradesh,Vijayawada,2012,101.12
+Andhra Pradesh,Vijayawada,2013,269.02
+Andhra Pradesh,Vijayawada,2014,445.99
+Andhra Pradesh,Vijayawada,2015,421.17
+Andhra Pradesh,Vijayawada,2016,337.27
+Andhra Pradesh,Vijayawada,2017,318.3
+Andhra Pradesh,Vijayawada,2018,440.41
+Andhra Pradesh,Vijayawada,2019,132.37
+Andhra Pradesh,Vijayawada,2020,361.14
+Andhra Pradesh,Vijayawada,2021,215.39
+Andhra Pradesh,Vijayawada,2022,431.63
+Andhra Pradesh,Vijayawada,2023,314.93
+Andhra Pradesh,Guntur,2000,295.33
+Andhra Pradesh,Guntur,2001,198.79
+Andhra Pradesh,Guntur,2002,95.85
+Andhra Pradesh,Guntur,2003,290.48
+Andhra Pradesh,Guntur,2004,276.22
+Andhra Pradesh,Guntur,2005,173.82
+Andhra Pradesh,Guntur,2006,228.46
+Andhra Pradesh,Guntur,2007,121.14
+Andhra Pradesh,Guntur,2008,421.01
+Andhra Pradesh,Guntur,2009,289.57
+Andhra Pradesh,Guntur,2010,169.85
+Andhra Pradesh,Guntur,2011,173.61
+Andhra Pradesh,Guntur,2012,381.71
+Andhra Pradesh,Guntur,2013,244.41
+Andhra Pradesh,Guntur,2014,327.71
+Andhra Pradesh,Guntur,2015,199.68
+Andhra Pradesh,Guntur,2016,374.39
+Andhra Pradesh,Guntur,2017,217.78
+Andhra Pradesh,Guntur,2018,368.81
+Andhra Pradesh,Guntur,2019,185.62
+Andhra Pradesh,Guntur,2020,410.5
+Andhra Pradesh,Guntur,2021,437.04
+Andhra Pradesh,Guntur,2022,465.82
+Andhra Pradesh,Guntur,2023,367.44
+Andhra Pradesh,Nellore,2000,239.47
+Andhra Pradesh,Nellore,2001,130.51
+Andhra Pradesh,Nellore,2002,286.64
+Andhra Pradesh,Nellore,2003,350.33
+Andhra Pradesh,Nellore,2004,193.89
+Andhra Pradesh,Nellore,2005,166.81
+Andhra Pradesh,Nellore,2006,363.78
+Andhra Pradesh,Nellore,2007,155.44
+Andhra Pradesh,Nellore,2008,133.71
+Andhra Pradesh,Nellore,2009,348.37
+Andhra Pradesh,Nellore,2010,383.61
+Andhra Pradesh,Nellore,2011,268.38
+Andhra Pradesh,Nellore,2012,190.52
+Andhra Pradesh,Nellore,2013,143.08
+Andhra Pradesh,Nellore,2014,419.6
+Andhra Pradesh,Nellore,2015,402.72
+Andhra Pradesh,Nellore,2016,231.98
+Andhra Pradesh,Nellore,2017,195.43
+Andhra Pradesh,Nellore,2018,138.28
+Andhra Pradesh,Nellore,2019,246.72
+Andhra Pradesh,Nellore,2020,360.87
+Andhra Pradesh,Nellore,2021,169.1
+Andhra Pradesh,Nellore,2022,438.83
+Andhra Pradesh,Nellore,2023,346.84
+Andhra Pradesh,Kurnool,2000,286.78
+Andhra Pradesh,Kurnool,2001,152.08
+Andhra Pradesh,Kurnool,2002,218.36
+Andhra Pradesh,Kurnool,2003,298.27
+Andhra Pradesh,Kurnool,2004,152.88
+Andhra Pradesh,Kurnool,2005,181.95
+Andhra Pradesh,Kurnool,2006,97.61
+Andhra Pradesh,Kurnool,2007,270.49
+Andhra Pradesh,Kurnool,2008,253.23
+Andhra Pradesh,Kurnool,2009,320.4
+Andhra Pradesh,Kurnool,2010,382.33
+Andhra Pradesh,Kurnool,2011,262.81
+Andhra Pradesh,Kurnool,2012,254.02
+Andhra Pradesh,Kurnool,2013,378.14
+Andhra Pradesh,Kurnool,2014,320.83
+Andhra Pradesh,Kurnool,2015,281.68
+Andhra Pradesh,Kurnool,2016,164.51
+Andhra Pradesh,Kurnool,2017,314.36
+Andhra Pradesh,Kurnool,2018,196.64
+Andhra Pradesh,Kurnool,2019,462.22
+Andhra Pradesh,Kurnool,2020,436.57
+Andhra Pradesh,Kurnool,2021,389.19
+Andhra Pradesh,Kurnool,2022,306.06
+Andhra Pradesh,Kurnool,2023,116.0
+Telangana,Hyderabad,2000,159.81
+Telangana,Hyderabad,2001,118.59
+Telangana,Hyderabad,2002,287.35
+Telangana,Hyderabad,2003,157.35
+Telangana,Hyderabad,2004,352.18
+Telangana,Hyderabad,2005,254.83
+Telangana,Hyderabad,2006,357.36
+Telangana,Hyderabad,2007,318.31
+Telangana,Hyderabad,2008,334.66
+Telangana,Hyderabad,2009,344.69
+Telangana,Hyderabad,2010,384.95
+Telangana,Hyderabad,2011,252.68
+Telangana,Hyderabad,2012,174.69
+Telangana,Hyderabad,2013,146.85
+Telangana,Hyderabad,2014,201.54
+Telangana,Hyderabad,2015,320.58
+Telangana,Hyderabad,2016,330.36
+Telangana,Hyderabad,2017,127.42
+Telangana,Hyderabad,2018,344.91
+Telangana,Hyderabad,2019,390.01
+Telangana,Hyderabad,2020,185.8
+Telangana,Hyderabad,2021,217.41
+Telangana,Hyderabad,2022,187.26
+Telangana,Hyderabad,2023,427.97
+Telangana,Warangal,2000,114.06
+Telangana,Warangal,2001,273.91
+Telangana,Warangal,2002,342.69
+Telangana,Warangal,2003,332.43
+Telangana,Warangal,2004,300.15
+Telangana,Warangal,2005,169.09
+Telangana,Warangal,2006,273.5
+Telangana,Warangal,2007,231.96
+Telangana,Warangal,2008,206.09
+Telangana,Warangal,2009,114.67
+Telangana,Warangal,2010,295.36
+Telangana,Warangal,2011,130.61
+Telangana,Warangal,2012,227.54
+Telangana,Warangal,2013,391.87
+Telangana,Warangal,2014,372.26
+Telangana,Warangal,2015,304.0
+Telangana,Warangal,2016,215.67
+Telangana,Warangal,2017,122.05
+Telangana,Warangal,2018,411.39
+Telangana,Warangal,2019,235.12
+Telangana,Warangal,2020,295.8
+Telangana,Warangal,2021,148.02
+Telangana,Warangal,2022,423.62
+Telangana,Warangal,2023,353.13
+Telangana,Nizamabad,2000,275.57
+Telangana,Nizamabad,2001,344.74
+Telangana,Nizamabad,2002,193.23
+Telangana,Nizamabad,2003,268.49
+Telangana,Nizamabad,2004,175.1
+Telangana,Nizamabad,2005,322.88
+Telangana,Nizamabad,2006,315.2
+Telangana,Nizamabad,2007,194.92
+Telangana,Nizamabad,2008,182.81
+Telangana,Nizamabad,2009,139.82
+Telangana,Nizamabad,2010,158.21
+Telangana,Nizamabad,2011,296.39
+Telangana,Nizamabad,2012,309.82
+Telangana,Nizamabad,2013,181.26
+Telangana,Nizamabad,2014,245.02
+Telangana,Nizamabad,2015,163.52
+Telangana,Nizamabad,2016,354.65
+Telangana,Nizamabad,2017,387.86
+Telangana,Nizamabad,2018,450.96
+Telangana,Nizamabad,2019,303.05
+Telangana,Nizamabad,2020,406.08
+Telangana,Nizamabad,2021,200.26
+Telangana,Nizamabad,2022,249.71
+Telangana,Nizamabad,2023,324.11
+Telangana,Karimnagar,2000,305.79
+Telangana,Karimnagar,2001,217.88
+Telangana,Karimnagar,2002,190.04
+Telangana,Karimnagar,2003,360.0
+Telangana,Karimnagar,2004,370.77
+Telangana,Karimnagar,2005,420.14
+Telangana,Karimnagar,2006,174.05
+Telangana,Karimnagar,2007,133.16
+Telangana,Karimnagar,2008,180.46
+Telangana,Karimnagar,2009,144.22
+Telangana,Karimnagar,2010,299.07
+Telangana,Karimnagar,2011,117.29
+Telangana,Karimnagar,2012,174.48
+Telangana,Karimnagar,2013,203.02
+Telangana,Karimnagar,2014,298.91
+Telangana,Karimnagar,2015,137.74
+Telangana,Karimnagar,2016,264.68
+Telangana,Karimnagar,2017,217.96
+Telangana,Karimnagar,2018,381.67
+Telangana,Karimnagar,2019,201.08
+Telangana,Karimnagar,2020,225.11
+Telangana,Karimnagar,2021,231.45
+Telangana,Karimnagar,2022,325.18
+Telangana,Karimnagar,2023,388.47
+Telangana,Khammam,2000,186.41
+Telangana,Khammam,2001,86.01
+Telangana,Khammam,2002,125.49
+Telangana,Khammam,2003,275.31
+Telangana,Khammam,2004,220.1
+Telangana,Khammam,2005,216.56
+Telangana,Khammam,2006,110.13
+Telangana,Khammam,2007,330.41
+Telangana,Khammam,2008,212.07
+Telangana,Khammam,2009,220.8
+Telangana,Khammam,2010,273.28
+Telangana,Khammam,2011,250.33
+Telangana,Khammam,2012,272.29
+Telangana,Khammam,2013,143.13
+Telangana,Khammam,2014,292.97
+Telangana,Khammam,2015,158.33
+Telangana,Khammam,2016,368.1
+Telangana,Khammam,2017,260.86
+Telangana,Khammam,2018,257.77
+Telangana,Khammam,2019,402.87
+Telangana,Khammam,2020,404.62
+Telangana,Khammam,2021,181.53
+Telangana,Khammam,2022,384.54
+Telangana,Khammam,2023,431.25
+Odisha,Bhubaneswar,2000,216.03
+Odisha,Bhubaneswar,2001,184.0
+Odisha,Bhubaneswar,2002,181.79
+Odisha,Bhubaneswar,2003,197.75
+Odisha,Bhubaneswar,2004,277.59
+Odisha,Bhubaneswar,2005,240.67
+Odisha,Bhubaneswar,2006,212.27
+Odisha,Bhubaneswar,2007,256.67
+Odisha,Bhubaneswar,2008,259.93
+Odisha,Bhubaneswar,2009,344.88
+Odisha,Bhubaneswar,2010,319.18
+Odisha,Bhubaneswar,2011,344.92
+Odisha,Bhubaneswar,2012,302.57
+Odisha,Bhubaneswar,2013,276.99
+Odisha,Bhubaneswar,2014,167.21
+Odisha,Bhubaneswar,2015,263.08
+Odisha,Bhubaneswar,2016,159.56
+Odisha,Bhubaneswar,2017,412.2
+Odisha,Bhubaneswar,2018,369.17
+Odisha,Bhubaneswar,2019,271.84
+Odisha,Bhubaneswar,2020,267.38
+Odisha,Bhubaneswar,2021,345.96
+Odisha,Bhubaneswar,2022,221.34
+Odisha,Bhubaneswar,2023,329.57
+Odisha,Cuttack,2000,333.16
+Odisha,Cuttack,2001,368.14
+Odisha,Cuttack,2002,338.07
+Odisha,Cuttack,2003,288.06
+Odisha,Cuttack,2004,247.41
+Odisha,Cuttack,2005,260.53
+Odisha,Cuttack,2006,330.27
+Odisha,Cuttack,2007,124.09
+Odisha,Cuttack,2008,189.06
+Odisha,Cuttack,2009,199.66
+Odisha,Cuttack,2010,204.61
+Odisha,Cuttack,2011,412.92
+Odisha,Cuttack,2012,294.35
+Odisha,Cuttack,2013,141.86
+Odisha,Cuttack,2014,278.56
+Odisha,Cuttack,2015,239.02
+Odisha,Cuttack,2016,343.72
+Odisha,Cuttack,2017,277.24
+Odisha,Cuttack,2018,385.95
+Odisha,Cuttack,2019,383.65
+Odisha,Cuttack,2020,451.17
+Odisha,Cuttack,2021,384.5
+Odisha,Cuttack,2022,382.74
+Odisha,Cuttack,2023,397.92
+Odisha,Rourkela,2000,343.27
+Odisha,Rourkela,2001,352.97
+Odisha,Rourkela,2002,353.87
+Odisha,Rourkela,2003,393.6
+Odisha,Rourkela,2004,310.13
+Odisha,Rourkela,2005,382.72
+Odisha,Rourkela,2006,330.77
+Odisha,Rourkela,2007,112.51
+Odisha,Rourkela,2008,99.97
+Odisha,Rourkela,2009,393.86
+Odisha,Rourkela,2010,326.2
+Odisha,Rourkela,2011,198.53
+Odisha,Rourkela,2012,316.36
+Odisha,Rourkela,2013,282.86
+Odisha,Rourkela,2014,194.55
+Odisha,Rourkela,2015,238.12
+Odisha,Rourkela,2016,137.16
+Odisha,Rourkela,2017,144.14
+Odisha,Rourkela,2018,265.83
+Odisha,Rourkela,2019,341.86
+Odisha,Rourkela,2020,216.52
+Odisha,Rourkela,2021,300.3
+Odisha,Rourkela,2022,279.82
+Odisha,Rourkela,2023,483.3
+Odisha,Berhampur,2000,126.85
+Odisha,Berhampur,2001,99.14
+Odisha,Berhampur,2002,123.49
+Odisha,Berhampur,2003,401.1
+Odisha,Berhampur,2004,130.63
+Odisha,Berhampur,2005,350.61
+Odisha,Berhampur,2006,182.49
+Odisha,Berhampur,2007,122.28
+Odisha,Berhampur,2008,301.31
+Odisha,Berhampur,2009,215.86
+Odisha,Berhampur,2010,224.16
+Odisha,Berhampur,2011,427.51
+Odisha,Berhampur,2012,413.61
+Odisha,Berhampur,2013,415.0
+Odisha,Berhampur,2014,152.22
+Odisha,Berhampur,2015,373.41
+Odisha,Berhampur,2016,450.51
+Odisha,Berhampur,2017,387.64
+Odisha,Berhampur,2018,342.97
+Odisha,Berhampur,2019,336.46
+Odisha,Berhampur,2020,430.72
+Odisha,Berhampur,2021,273.02
+Odisha,Berhampur,2022,260.81
+Odisha,Berhampur,2023,311.84
+Odisha,Sambalpur,2000,252.67
+Odisha,Sambalpur,2001,273.26
+Odisha,Sambalpur,2002,328.86
+Odisha,Sambalpur,2003,340.35
+Odisha,Sambalpur,2004,369.84
+Odisha,Sambalpur,2005,117.03
+Odisha,Sambalpur,2006,312.35
+Odisha,Sambalpur,2007,182.83
+Odisha,Sambalpur,2008,334.99
+Odisha,Sambalpur,2009,297.1
+Odisha,Sambalpur,2010,164.96
+Odisha,Sambalpur,2011,122.08
+Odisha,Sambalpur,2012,188.01
+Odisha,Sambalpur,2013,303.62
+Odisha,Sambalpur,2014,411.91
+Odisha,Sambalpur,2015,203.82
+Odisha,Sambalpur,2016,209.04
+Odisha,Sambalpur,2017,327.89
+Odisha,Sambalpur,2018,325.27
+Odisha,Sambalpur,2019,203.61
+Odisha,Sambalpur,2020,281.83
+Odisha,Sambalpur,2021,249.14
+Odisha,Sambalpur,2022,306.54
+Odisha,Sambalpur,2023,167.45
+Jharkhand,Ranchi,2000,369.19
+Jharkhand,Ranchi,2001,163.88
+Jharkhand,Ranchi,2002,373.27
+Jharkhand,Ranchi,2003,109.61
+Jharkhand,Ranchi,2004,402.18
+Jharkhand,Ranchi,2005,263.82
+Jharkhand,Ranchi,2006,406.73
+Jharkhand,Ranchi,2007,359.42
+Jharkhand,Ranchi,2008,168.66
+Jharkhand,Ranchi,2009,327.76
+Jharkhand,Ranchi,2010,281.21
+Jharkhand,Ranchi,2011,375.06
+Jharkhand,Ranchi,2012,206.7
+Jharkhand,Ranchi,2013,411.64
+Jharkhand,Ranchi,2014,258.78
+Jharkhand,Ranchi,2015,227.21
+Jharkhand,Ranchi,2016,211.59
+Jharkhand,Ranchi,2017,375.74
+Jharkhand,Ranchi,2018,212.54
+Jharkhand,Ranchi,2019,374.1
+Jharkhand,Ranchi,2020,387.25
+Jharkhand,Ranchi,2021,200.99
+Jharkhand,Ranchi,2022,300.36
+Jharkhand,Ranchi,2023,265.51
+Jharkhand,Jamshedpur,2000,174.51
+Jharkhand,Jamshedpur,2001,243.76
+Jharkhand,Jamshedpur,2002,245.67
+Jharkhand,Jamshedpur,2003,270.99
+Jharkhand,Jamshedpur,2004,186.74
+Jharkhand,Jamshedpur,2005,365.25
+Jharkhand,Jamshedpur,2006,398.56
+Jharkhand,Jamshedpur,2007,390.71
+Jharkhand,Jamshedpur,2008,212.22
+Jharkhand,Jamshedpur,2009,317.86
+Jharkhand,Jamshedpur,2010,101.99
+Jharkhand,Jamshedpur,2011,182.45
+Jharkhand,Jamshedpur,2012,165.26
+Jharkhand,Jamshedpur,2013,246.0
+Jharkhand,Jamshedpur,2014,245.51
+Jharkhand,Jamshedpur,2015,414.83
+Jharkhand,Jamshedpur,2016,273.08
+Jharkhand,Jamshedpur,2017,373.56
+Jharkhand,Jamshedpur,2018,302.63
+Jharkhand,Jamshedpur,2019,313.27
+Jharkhand,Jamshedpur,2020,270.41
+Jharkhand,Jamshedpur,2021,362.92
+Jharkhand,Jamshedpur,2022,274.67
+Jharkhand,Jamshedpur,2023,160.26
+Jharkhand,Dhanbad,2000,368.23
+Jharkhand,Dhanbad,2001,207.19
+Jharkhand,Dhanbad,2002,351.14
+Jharkhand,Dhanbad,2003,346.62
+Jharkhand,Dhanbad,2004,118.1
+Jharkhand,Dhanbad,2005,358.22
+Jharkhand,Dhanbad,2006,334.81
+Jharkhand,Dhanbad,2007,414.93
+Jharkhand,Dhanbad,2008,241.08
+Jharkhand,Dhanbad,2009,306.03
+Jharkhand,Dhanbad,2010,420.02
+Jharkhand,Dhanbad,2011,187.59
+Jharkhand,Dhanbad,2012,220.06
+Jharkhand,Dhanbad,2013,424.61
+Jharkhand,Dhanbad,2014,158.17
+Jharkhand,Dhanbad,2015,312.64
+Jharkhand,Dhanbad,2016,372.3
+Jharkhand,Dhanbad,2017,217.12
+Jharkhand,Dhanbad,2018,336.99
+Jharkhand,Dhanbad,2019,340.84
+Jharkhand,Dhanbad,2020,476.77
+Jharkhand,Dhanbad,2021,447.55
+Jharkhand,Dhanbad,2022,427.68
+Jharkhand,Dhanbad,2023,216.86
+Jharkhand,Bokaro,2000,238.04
+Jharkhand,Bokaro,2001,395.09
+Jharkhand,Bokaro,2002,296.58
+Jharkhand,Bokaro,2003,295.92
+Jharkhand,Bokaro,2004,392.94
+Jharkhand,Bokaro,2005,158.14
+Jharkhand,Bokaro,2006,199.24
+Jharkhand,Bokaro,2007,177.64
+Jharkhand,Bokaro,2008,321.77
+Jharkhand,Bokaro,2009,271.83
+Jharkhand,Bokaro,2010,217.16
+Jharkhand,Bokaro,2011,147.89
+Jharkhand,Bokaro,2012,409.84
+Jharkhand,Bokaro,2013,314.2
+Jharkhand,Bokaro,2014,188.64
+Jharkhand,Bokaro,2015,303.24
+Jharkhand,Bokaro,2016,328.72
+Jharkhand,Bokaro,2017,385.27
+Jharkhand,Bokaro,2018,239.01
+Jharkhand,Bokaro,2019,172.38
+Jharkhand,Bokaro,2020,405.25
+Jharkhand,Bokaro,2021,454.2
+Jharkhand,Bokaro,2022,381.08
+Jharkhand,Bokaro,2023,295.27
+Jharkhand,Hazaribagh,2000,334.68
+Jharkhand,Hazaribagh,2001,150.72
+Jharkhand,Hazaribagh,2002,108.52
+Jharkhand,Hazaribagh,2003,238.1
+Jharkhand,Hazaribagh,2004,130.26
+Jharkhand,Hazaribagh,2005,417.5
+Jharkhand,Hazaribagh,2006,166.24
+Jharkhand,Hazaribagh,2007,247.85
+Jharkhand,Hazaribagh,2008,115.39
+Jharkhand,Hazaribagh,2009,356.48
+Jharkhand,Hazaribagh,2010,307.76
+Jharkhand,Hazaribagh,2011,229.97
+Jharkhand,Hazaribagh,2012,275.01
+Jharkhand,Hazaribagh,2013,341.7
+Jharkhand,Hazaribagh,2014,345.42
+Jharkhand,Hazaribagh,2015,178.84
+Jharkhand,Hazaribagh,2016,293.13
+Jharkhand,Hazaribagh,2017,436.14
+Jharkhand,Hazaribagh,2018,300.17
+Jharkhand,Hazaribagh,2019,418.86
+Jharkhand,Hazaribagh,2020,186.45
+Jharkhand,Hazaribagh,2021,467.57
+Jharkhand,Hazaribagh,2022,450.28
+Jharkhand,Hazaribagh,2023,152.96
+Chhattisgarh,Raipur,2000,173.05
+Chhattisgarh,Raipur,2001,309.25
+Chhattisgarh,Raipur,2002,383.09
+Chhattisgarh,Raipur,2003,150.18
+Chhattisgarh,Raipur,2004,185.62
+Chhattisgarh,Raipur,2005,388.38
+Chhattisgarh,Raipur,2006,303.36
+Chhattisgarh,Raipur,2007,306.19
+Chhattisgarh,Raipur,2008,324.83
+Chhattisgarh,Raipur,2009,132.45
+Chhattisgarh,Raipur,2010,342.72
+Chhattisgarh,Raipur,2011,412.04
+Chhattisgarh,Raipur,2012,251.51
+Chhattisgarh,Raipur,2013,230.62
+Chhattisgarh,Raipur,2014,297.44
+Chhattisgarh,Raipur,2015,266.04
+Chhattisgarh,Raipur,2016,309.67
+Chhattisgarh,Raipur,2017,282.81
+Chhattisgarh,Raipur,2018,361.17
+Chhattisgarh,Raipur,2019,233.71
+Chhattisgarh,Raipur,2020,342.83
+Chhattisgarh,Raipur,2021,395.12
+Chhattisgarh,Raipur,2022,371.53
+Chhattisgarh,Raipur,2023,276.3
+Chhattisgarh,Bhilai,2000,349.69
+Chhattisgarh,Bhilai,2001,357.01
+Chhattisgarh,Bhilai,2002,390.7
+Chhattisgarh,Bhilai,2003,198.93
+Chhattisgarh,Bhilai,2004,209.19
+Chhattisgarh,Bhilai,2005,118.62
+Chhattisgarh,Bhilai,2006,290.07
+Chhattisgarh,Bhilai,2007,277.96
+Chhattisgarh,Bhilai,2008,372.72
+Chhattisgarh,Bhilai,2009,152.02
+Chhattisgarh,Bhilai,2010,276.42
+Chhattisgarh,Bhilai,2011,361.9
+Chhattisgarh,Bhilai,2012,353.56
+Chhattisgarh,Bhilai,2013,360.87
+Chhattisgarh,Bhilai,2014,218.8
+Chhattisgarh,Bhilai,2015,175.49
+Chhattisgarh,Bhilai,2016,244.21
+Chhattisgarh,Bhilai,2017,384.32
+Chhattisgarh,Bhilai,2018,176.21
+Chhattisgarh,Bhilai,2019,167.37
+Chhattisgarh,Bhilai,2020,211.54
+Chhattisgarh,Bhilai,2021,191.48
+Chhattisgarh,Bhilai,2022,247.17
+Chhattisgarh,Bhilai,2023,439.47
+Chhattisgarh,Bilaspur,2000,281.94
+Chhattisgarh,Bilaspur,2001,379.0
+Chhattisgarh,Bilaspur,2002,119.34
+Chhattisgarh,Bilaspur,2003,107.4
+Chhattisgarh,Bilaspur,2004,180.23
+Chhattisgarh,Bilaspur,2005,334.86
+Chhattisgarh,Bilaspur,2006,227.28
+Chhattisgarh,Bilaspur,2007,238.53
+Chhattisgarh,Bilaspur,2008,108.76
+Chhattisgarh,Bilaspur,2009,302.19
+Chhattisgarh,Bilaspur,2010,176.37
+Chhattisgarh,Bilaspur,2011,349.9
+Chhattisgarh,Bilaspur,2012,123.08
+Chhattisgarh,Bilaspur,2013,251.67
+Chhattisgarh,Bilaspur,2014,319.48
+Chhattisgarh,Bilaspur,2015,454.4
+Chhattisgarh,Bilaspur,2016,251.2
+Chhattisgarh,Bilaspur,2017,185.76
+Chhattisgarh,Bilaspur,2018,155.57
+Chhattisgarh,Bilaspur,2019,213.77
+Chhattisgarh,Bilaspur,2020,269.01
+Chhattisgarh,Bilaspur,2021,450.05
+Chhattisgarh,Bilaspur,2022,417.36
+Chhattisgarh,Bilaspur,2023,423.93
+Chhattisgarh,Korba,2000,297.39
+Chhattisgarh,Korba,2001,327.8
+Chhattisgarh,Korba,2002,191.64
+Chhattisgarh,Korba,2003,231.16
+Chhattisgarh,Korba,2004,357.38
+Chhattisgarh,Korba,2005,319.09
+Chhattisgarh,Korba,2006,381.68
+Chhattisgarh,Korba,2007,177.58
+Chhattisgarh,Korba,2008,127.52
+Chhattisgarh,Korba,2009,314.01
+Chhattisgarh,Korba,2010,277.89
+Chhattisgarh,Korba,2011,306.83
+Chhattisgarh,Korba,2012,396.7
+Chhattisgarh,Korba,2013,300.29
+Chhattisgarh,Korba,2014,299.57
+Chhattisgarh,Korba,2015,284.3
+Chhattisgarh,Korba,2016,298.24
+Chhattisgarh,Korba,2017,186.07
+Chhattisgarh,Korba,2018,270.25
+Chhattisgarh,Korba,2019,178.44
+Chhattisgarh,Korba,2020,373.04
+Chhattisgarh,Korba,2021,301.48
+Chhattisgarh,Korba,2022,461.79
+Chhattisgarh,Korba,2023,212.09
+Chhattisgarh,Durg,2000,307.31
+Chhattisgarh,Durg,2001,265.89
+Chhattisgarh,Durg,2002,350.28
+Chhattisgarh,Durg,2003,151.22
+Chhattisgarh,Durg,2004,281.67
+Chhattisgarh,Durg,2005,334.02
+Chhattisgarh,Durg,2006,251.6
+Chhattisgarh,Durg,2007,290.64
+Chhattisgarh,Durg,2008,350.29
+Chhattisgarh,Durg,2009,179.33
+Chhattisgarh,Durg,2010,168.46
+Chhattisgarh,Durg,2011,190.58
+Chhattisgarh,Durg,2012,422.29
+Chhattisgarh,Durg,2013,219.48
+Chhattisgarh,Durg,2014,299.4
+Chhattisgarh,Durg,2015,164.35
+Chhattisgarh,Durg,2016,188.68
+Chhattisgarh,Durg,2017,103.73
+Chhattisgarh,Durg,2018,302.37
+Chhattisgarh,Durg,2019,381.28
+Chhattisgarh,Durg,2020,329.85
+Chhattisgarh,Durg,2021,404.54
+Chhattisgarh,Durg,2022,194.29
+Chhattisgarh,Durg,2023,247.14
+Himachal Pradesh,Shimla,2000,393.08
+Himachal Pradesh,Shimla,2001,241.66
+Himachal Pradesh,Shimla,2002,119.73
+Himachal Pradesh,Shimla,2003,119.77
+Himachal Pradesh,Shimla,2004,343.53
+Himachal Pradesh,Shimla,2005,209.02
+Himachal Pradesh,Shimla,2006,278.91
+Himachal Pradesh,Shimla,2007,393.88
+Himachal Pradesh,Shimla,2008,258.34
+Himachal Pradesh,Shimla,2009,192.95
+Himachal Pradesh,Shimla,2010,99.7
+Himachal Pradesh,Shimla,2011,279.14
+Himachal Pradesh,Shimla,2012,260.27
+Himachal Pradesh,Shimla,2013,341.29
+Himachal Pradesh,Shimla,2014,300.83
+Himachal Pradesh,Shimla,2015,331.52
+Himachal Pradesh,Shimla,2016,373.62
+Himachal Pradesh,Shimla,2017,238.73
+Himachal Pradesh,Shimla,2018,424.63
+Himachal Pradesh,Shimla,2019,250.58
+Himachal Pradesh,Shimla,2020,180.92
+Himachal Pradesh,Shimla,2021,228.0
+Himachal Pradesh,Shimla,2022,359.81
+Himachal Pradesh,Shimla,2023,137.28
+Himachal Pradesh,Dharamshala,2000,161.61
+Himachal Pradesh,Dharamshala,2001,158.1
+Himachal Pradesh,Dharamshala,2002,148.53
+Himachal Pradesh,Dharamshala,2003,321.68
+Himachal Pradesh,Dharamshala,2004,407.49
+Himachal Pradesh,Dharamshala,2005,338.5
+Himachal Pradesh,Dharamshala,2006,364.88
+Himachal Pradesh,Dharamshala,2007,376.55
+Himachal Pradesh,Dharamshala,2008,173.99
+Himachal Pradesh,Dharamshala,2009,296.23
+Himachal Pradesh,Dharamshala,2010,181.78
+Himachal Pradesh,Dharamshala,2011,140.54
+Himachal Pradesh,Dharamshala,2012,268.86
+Himachal Pradesh,Dharamshala,2013,320.64
+Himachal Pradesh,Dharamshala,2014,245.66
+Himachal Pradesh,Dharamshala,2015,420.16
+Himachal Pradesh,Dharamshala,2016,308.2
+Himachal Pradesh,Dharamshala,2017,260.45
+Himachal Pradesh,Dharamshala,2018,423.83
+Himachal Pradesh,Dharamshala,2019,288.03
+Himachal Pradesh,Dharamshala,2020,353.66
+Himachal Pradesh,Dharamshala,2021,439.58
+Himachal Pradesh,Dharamshala,2022,265.38
+Himachal Pradesh,Dharamshala,2023,404.64
+Himachal Pradesh,Mandi,2000,206.46
+Himachal Pradesh,Mandi,2001,181.89
+Himachal Pradesh,Mandi,2002,372.31
+Himachal Pradesh,Mandi,2003,226.49
+Himachal Pradesh,Mandi,2004,110.5
+Himachal Pradesh,Mandi,2005,377.85
+Himachal Pradesh,Mandi,2006,163.71
+Himachal Pradesh,Mandi,2007,252.13
+Himachal Pradesh,Mandi,2008,307.46
+Himachal Pradesh,Mandi,2009,244.09
+Himachal Pradesh,Mandi,2010,205.24
+Himachal Pradesh,Mandi,2011,230.96
+Himachal Pradesh,Mandi,2012,203.45
+Himachal Pradesh,Mandi,2013,351.84
+Himachal Pradesh,Mandi,2014,217.02
+Himachal Pradesh,Mandi,2015,153.33
+Himachal Pradesh,Mandi,2016,150.28
+Himachal Pradesh,Mandi,2017,464.65
+Himachal Pradesh,Mandi,2018,299.72
+Himachal Pradesh,Mandi,2019,196.04
+Himachal Pradesh,Mandi,2020,305.8
+Himachal Pradesh,Mandi,2021,464.39
+Himachal Pradesh,Mandi,2022,193.34
+Himachal Pradesh,Mandi,2023,229.25
+Himachal Pradesh,Solan,2000,296.76
+Himachal Pradesh,Solan,2001,137.15
+Himachal Pradesh,Solan,2002,329.78
+Himachal Pradesh,Solan,2003,381.68
+Himachal Pradesh,Solan,2004,101.06
+Himachal Pradesh,Solan,2005,362.75
+Himachal Pradesh,Solan,2006,400.49
+Himachal Pradesh,Solan,2007,161.36
+Himachal Pradesh,Solan,2008,194.4
+Himachal Pradesh,Solan,2009,247.15
+Himachal Pradesh,Solan,2010,294.57
+Himachal Pradesh,Solan,2011,280.11
+Himachal Pradesh,Solan,2012,139.75
+Himachal Pradesh,Solan,2013,182.73
+Himachal Pradesh,Solan,2014,390.82
+Himachal Pradesh,Solan,2015,430.34
+Himachal Pradesh,Solan,2016,296.75
+Himachal Pradesh,Solan,2017,124.32
+Himachal Pradesh,Solan,2018,380.74
+Himachal Pradesh,Solan,2019,182.02
+Himachal Pradesh,Solan,2020,393.73
+Himachal Pradesh,Solan,2021,398.43
+Himachal Pradesh,Solan,2022,222.65
+Himachal Pradesh,Solan,2023,252.56
+Himachal Pradesh,Kullu,2000,390.05
+Himachal Pradesh,Kullu,2001,328.36
+Himachal Pradesh,Kullu,2002,120.92
+Himachal Pradesh,Kullu,2003,231.16
+Himachal Pradesh,Kullu,2004,197.68
+Himachal Pradesh,Kullu,2005,130.97
+Himachal Pradesh,Kullu,2006,206.44
+Himachal Pradesh,Kullu,2007,383.76
+Himachal Pradesh,Kullu,2008,233.44
+Himachal Pradesh,Kullu,2009,207.13
+Himachal Pradesh,Kullu,2010,423.18
+Himachal Pradesh,Kullu,2011,280.81
+Himachal Pradesh,Kullu,2012,223.52
+Himachal Pradesh,Kullu,2013,204.48
+Himachal Pradesh,Kullu,2014,371.71
+Himachal Pradesh,Kullu,2015,265.02
+Himachal Pradesh,Kullu,2016,218.26
+Himachal Pradesh,Kullu,2017,337.03
+Himachal Pradesh,Kullu,2018,150.29
+Himachal Pradesh,Kullu,2019,253.09
+Himachal Pradesh,Kullu,2020,333.48
+Himachal Pradesh,Kullu,2021,427.68
+Himachal Pradesh,Kullu,2022,301.2
+Himachal Pradesh,Kullu,2023,288.67
+Uttarakhand,Dehradun,2000,397.24
+Uttarakhand,Dehradun,2001,379.27
+Uttarakhand,Dehradun,2002,335.97
+Uttarakhand,Dehradun,2003,96.33
+Uttarakhand,Dehradun,2004,231.89
+Uttarakhand,Dehradun,2005,235.25
+Uttarakhand,Dehradun,2006,211.55
+Uttarakhand,Dehradun,2007,328.32
+Uttarakhand,Dehradun,2008,407.56
+Uttarakhand,Dehradun,2009,342.68
+Uttarakhand,Dehradun,2010,369.62
+Uttarakhand,Dehradun,2011,396.28
+Uttarakhand,Dehradun,2012,126.66
+Uttarakhand,Dehradun,2013,420.04
+Uttarakhand,Dehradun,2014,132.3
+Uttarakhand,Dehradun,2015,190.82
+Uttarakhand,Dehradun,2016,116.09
+Uttarakhand,Dehradun,2017,389.75
+Uttarakhand,Dehradun,2018,355.56
+Uttarakhand,Dehradun,2019,379.68
+Uttarakhand,Dehradun,2020,157.38
+Uttarakhand,Dehradun,2021,237.89
+Uttarakhand,Dehradun,2022,273.77
+Uttarakhand,Dehradun,2023,358.7
+Uttarakhand,Haridwar,2000,187.43
+Uttarakhand,Haridwar,2001,134.53
+Uttarakhand,Haridwar,2002,406.77
+Uttarakhand,Haridwar,2003,335.1
+Uttarakhand,Haridwar,2004,393.38
+Uttarakhand,Haridwar,2005,278.09
+Uttarakhand,Haridwar,2006,403.53
+Uttarakhand,Haridwar,2007,257.92
+Uttarakhand,Haridwar,2008,401.71
+Uttarakhand,Haridwar,2009,407.13
+Uttarakhand,Haridwar,2010,306.24
+Uttarakhand,Haridwar,2011,197.44
+Uttarakhand,Haridwar,2012,250.61
+Uttarakhand,Haridwar,2013,280.79
+Uttarakhand,Haridwar,2014,263.64
+Uttarakhand,Haridwar,2015,327.21
+Uttarakhand,Haridwar,2016,327.95
+Uttarakhand,Haridwar,2017,200.23
+Uttarakhand,Haridwar,2018,335.42
+Uttarakhand,Haridwar,2019,396.48
+Uttarakhand,Haridwar,2020,329.98
+Uttarakhand,Haridwar,2021,228.44
+Uttarakhand,Haridwar,2022,334.2
+Uttarakhand,Haridwar,2023,148.47
+Uttarakhand,Roorkee,2000,373.22
+Uttarakhand,Roorkee,2001,167.53
+Uttarakhand,Roorkee,2002,379.5
+Uttarakhand,Roorkee,2003,174.79
+Uttarakhand,Roorkee,2004,214.62
+Uttarakhand,Roorkee,2005,222.22
+Uttarakhand,Roorkee,2006,131.65
+Uttarakhand,Roorkee,2007,262.43
+Uttarakhand,Roorkee,2008,135.88
+Uttarakhand,Roorkee,2009,276.05
+Uttarakhand,Roorkee,2010,256.75
+Uttarakhand,Roorkee,2011,214.12
+Uttarakhand,Roorkee,2012,322.06
+Uttarakhand,Roorkee,2013,156.89
+Uttarakhand,Roorkee,2014,300.11
+Uttarakhand,Roorkee,2015,292.75
+Uttarakhand,Roorkee,2016,273.6
+Uttarakhand,Roorkee,2017,222.48
+Uttarakhand,Roorkee,2018,332.68
+Uttarakhand,Roorkee,2019,290.08
+Uttarakhand,Roorkee,2020,392.08
+Uttarakhand,Roorkee,2021,363.66
+Uttarakhand,Roorkee,2022,480.09
+Uttarakhand,Roorkee,2023,424.66
+Uttarakhand,Haldwani,2000,175.35
+Uttarakhand,Haldwani,2001,175.05
+Uttarakhand,Haldwani,2002,95.75
+Uttarakhand,Haldwani,2003,405.6
+Uttarakhand,Haldwani,2004,394.53
+Uttarakhand,Haldwani,2005,348.26
+Uttarakhand,Haldwani,2006,95.79
+Uttarakhand,Haldwani,2007,298.84
+Uttarakhand,Haldwani,2008,169.75
+Uttarakhand,Haldwani,2009,302.94
+Uttarakhand,Haldwani,2010,146.23
+Uttarakhand,Haldwani,2011,177.24
+Uttarakhand,Haldwani,2012,361.02
+Uttarakhand,Haldwani,2013,267.25
+Uttarakhand,Haldwani,2014,210.79
+Uttarakhand,Haldwani,2015,162.36
+Uttarakhand,Haldwani,2016,238.2
+Uttarakhand,Haldwani,2017,306.74
+Uttarakhand,Haldwani,2018,403.24
+Uttarakhand,Haldwani,2019,304.9
+Uttarakhand,Haldwani,2020,253.81
+Uttarakhand,Haldwani,2021,268.85
+Uttarakhand,Haldwani,2022,298.64
+Uttarakhand,Haldwani,2023,352.85
+Uttarakhand,Rishikesh,2000,356.9
+Uttarakhand,Rishikesh,2001,97.77
+Uttarakhand,Rishikesh,2002,334.52
+Uttarakhand,Rishikesh,2003,158.89
+Uttarakhand,Rishikesh,2004,327.79
+Uttarakhand,Rishikesh,2005,367.81
+Uttarakhand,Rishikesh,2006,409.87
+Uttarakhand,Rishikesh,2007,217.53
+Uttarakhand,Rishikesh,2008,292.08
+Uttarakhand,Rishikesh,2009,413.81
+Uttarakhand,Rishikesh,2010,396.53
+Uttarakhand,Rishikesh,2011,200.22
+Uttarakhand,Rishikesh,2012,406.44
+Uttarakhand,Rishikesh,2013,277.89
+Uttarakhand,Rishikesh,2014,148.42
+Uttarakhand,Rishikesh,2015,318.36
+Uttarakhand,Rishikesh,2016,157.83
+Uttarakhand,Rishikesh,2017,346.13
+Uttarakhand,Rishikesh,2018,193.68
+Uttarakhand,Rishikesh,2019,384.54
+Uttarakhand,Rishikesh,2020,263.11
+Uttarakhand,Rishikesh,2021,195.27
+Uttarakhand,Rishikesh,2022,341.06
+Uttarakhand,Rishikesh,2023,413.88
+Kerala,Thiruvananthapuram,2000,190.71
+Kerala,Thiruvananthapuram,2001,326.22
+Kerala,Thiruvananthapuram,2002,165.16
+Kerala,Thiruvananthapuram,2003,189.9
+Kerala,Thiruvananthapuram,2004,268.81
+Kerala,Thiruvananthapuram,2005,109.12
+Kerala,Thiruvananthapuram,2006,119.37
+Kerala,Thiruvananthapuram,2007,351.23
+Kerala,Thiruvananthapuram,2008,404.62
+Kerala,Thiruvananthapuram,2009,143.63
+Kerala,Thiruvananthapuram,2010,262.44
+Kerala,Thiruvananthapuram,2011,273.44
+Kerala,Thiruvananthapuram,2012,361.94
+Kerala,Thiruvananthapuram,2013,117.61
+Kerala,Thiruvananthapuram,2014,229.93
+Kerala,Thiruvananthapuram,2015,237.02
+Kerala,Thiruvananthapuram,2016,318.04
+Kerala,Thiruvananthapuram,2017,302.46
+Kerala,Thiruvananthapuram,2018,456.01
+Kerala,Thiruvananthapuram,2019,150.4
+Kerala,Thiruvananthapuram,2020,366.6
+Kerala,Thiruvananthapuram,2021,281.31
+Kerala,Thiruvananthapuram,2022,473.58
+Kerala,Thiruvananthapuram,2023,436.71
+Kerala,Kochi,2000,303.01
+Kerala,Kochi,2001,243.89
+Kerala,Kochi,2002,280.38
+Kerala,Kochi,2003,333.68
+Kerala,Kochi,2004,134.34
+Kerala,Kochi,2005,221.82
+Kerala,Kochi,2006,327.7
+Kerala,Kochi,2007,397.88
+Kerala,Kochi,2008,376.97
+Kerala,Kochi,2009,251.44
+Kerala,Kochi,2010,227.27
+Kerala,Kochi,2011,335.81
+Kerala,Kochi,2012,166.8
+Kerala,Kochi,2013,192.44
+Kerala,Kochi,2014,246.99
+Kerala,Kochi,2015,151.44
+Kerala,Kochi,2016,434.03
+Kerala,Kochi,2017,198.89
+Kerala,Kochi,2018,179.01
+Kerala,Kochi,2019,174.79
+Kerala,Kochi,2020,230.07
+Kerala,Kochi,2021,256.07
+Kerala,Kochi,2022,405.52
+Kerala,Kochi,2023,300.0
+Kerala,Kozhikode,2000,320.77
+Kerala,Kozhikode,2001,267.08
+Kerala,Kozhikode,2002,274.81
+Kerala,Kozhikode,2003,390.39
+Kerala,Kozhikode,2004,162.49
+Kerala,Kozhikode,2005,147.85
+Kerala,Kozhikode,2006,304.2
+Kerala,Kozhikode,2007,164.31
+Kerala,Kozhikode,2008,128.75
+Kerala,Kozhikode,2009,245.66
+Kerala,Kozhikode,2010,143.75
+Kerala,Kozhikode,2011,152.91
+Kerala,Kozhikode,2012,419.52
+Kerala,Kozhikode,2013,178.68
+Kerala,Kozhikode,2014,304.91
+Kerala,Kozhikode,2015,267.25
+Kerala,Kozhikode,2016,192.69
+Kerala,Kozhikode,2017,147.08
+Kerala,Kozhikode,2018,358.91
+Kerala,Kozhikode,2019,217.75
+Kerala,Kozhikode,2020,451.3
+Kerala,Kozhikode,2021,193.79
+Kerala,Kozhikode,2022,296.0
+Kerala,Kozhikode,2023,367.1
+Kerala,Thrissur,2000,150.16
+Kerala,Thrissur,2001,194.39
+Kerala,Thrissur,2002,222.46
+Kerala,Thrissur,2003,179.01
+Kerala,Thrissur,2004,412.27
+Kerala,Thrissur,2005,218.33
+Kerala,Thrissur,2006,143.84
+Kerala,Thrissur,2007,201.4
+Kerala,Thrissur,2008,332.59
+Kerala,Thrissur,2009,390.48
+Kerala,Thrissur,2010,136.4
+Kerala,Thrissur,2011,440.65
+Kerala,Thrissur,2012,293.73
+Kerala,Thrissur,2013,170.34
+Kerala,Thrissur,2014,267.07
+Kerala,Thrissur,2015,154.83
+Kerala,Thrissur,2016,215.44
+Kerala,Thrissur,2017,175.24
+Kerala,Thrissur,2018,231.37
+Kerala,Thrissur,2019,429.25
+Kerala,Thrissur,2020,225.64
+Kerala,Thrissur,2021,227.74
+Kerala,Thrissur,2022,317.6
+Kerala,Thrissur,2023,220.32
+Kerala,Kollam,2000,205.88
+Kerala,Kollam,2001,237.1
+Kerala,Kollam,2002,176.53
+Kerala,Kollam,2003,198.6
+Kerala,Kollam,2004,394.01
+Kerala,Kollam,2005,178.52
+Kerala,Kollam,2006,211.25
+Kerala,Kollam,2007,344.32
+Kerala,Kollam,2008,363.58
+Kerala,Kollam,2009,122.95
+Kerala,Kollam,2010,315.46
+Kerala,Kollam,2011,213.13
+Kerala,Kollam,2012,219.2
+Kerala,Kollam,2013,125.79
+Kerala,Kollam,2014,414.0
+Kerala,Kollam,2015,147.72
+Kerala,Kollam,2016,388.81
+Kerala,Kollam,2017,237.54
+Kerala,Kollam,2018,342.63
+Kerala,Kollam,2019,151.28
+Kerala,Kollam,2020,317.54
+Kerala,Kollam,2021,256.26
+Kerala,Kollam,2022,234.61
+Kerala,Kollam,2023,195.18
+Assam,Guwahati,2000,232.2
+Assam,Guwahati,2001,85.29
+Assam,Guwahati,2002,157.9
+Assam,Guwahati,2003,287.71
+Assam,Guwahati,2004,265.06
+Assam,Guwahati,2005,186.84
+Assam,Guwahati,2006,331.33
+Assam,Guwahati,2007,392.41
+Assam,Guwahati,2008,291.44
+Assam,Guwahati,2009,344.63
+Assam,Guwahati,2010,287.8
+Assam,Guwahati,2011,384.95
+Assam,Guwahati,2012,163.54
+Assam,Guwahati,2013,414.98
+Assam,Guwahati,2014,423.51
+Assam,Guwahati,2015,364.29
+Assam,Guwahati,2016,312.96
+Assam,Guwahati,2017,192.85
+Assam,Guwahati,2018,141.97
+Assam,Guwahati,2019,414.22
+Assam,Guwahati,2020,264.86
+Assam,Guwahati,2021,276.33
+Assam,Guwahati,2022,276.43
+Assam,Guwahati,2023,381.74
+Assam,Dibrugarh,2000,399.21
+Assam,Dibrugarh,2001,329.22
+Assam,Dibrugarh,2002,357.13
+Assam,Dibrugarh,2003,243.3
+Assam,Dibrugarh,2004,393.1
+Assam,Dibrugarh,2005,408.85
+Assam,Dibrugarh,2006,114.48
+Assam,Dibrugarh,2007,278.76
+Assam,Dibrugarh,2008,309.71
+Assam,Dibrugarh,2009,250.73
+Assam,Dibrugarh,2010,193.5
+Assam,Dibrugarh,2011,275.9
+Assam,Dibrugarh,2012,123.84
+Assam,Dibrugarh,2013,231.93
+Assam,Dibrugarh,2014,203.21
+Assam,Dibrugarh,2015,308.35
+Assam,Dibrugarh,2016,280.72
+Assam,Dibrugarh,2017,159.06
+Assam,Dibrugarh,2018,330.28
+Assam,Dibrugarh,2019,347.19
+Assam,Dibrugarh,2020,264.91
+Assam,Dibrugarh,2021,274.15
+Assam,Dibrugarh,2022,323.04
+Assam,Dibrugarh,2023,190.5
+Assam,Silchar,2000,275.6
+Assam,Silchar,2001,120.72
+Assam,Silchar,2002,161.84
+Assam,Silchar,2003,290.55
+Assam,Silchar,2004,181.65
+Assam,Silchar,2005,229.65
+Assam,Silchar,2006,423.21
+Assam,Silchar,2007,228.29
+Assam,Silchar,2008,235.88
+Assam,Silchar,2009,276.9
+Assam,Silchar,2010,162.1
+Assam,Silchar,2011,228.04
+Assam,Silchar,2012,132.37
+Assam,Silchar,2013,140.6
+Assam,Silchar,2014,152.42
+Assam,Silchar,2015,307.14
+Assam,Silchar,2016,417.96
+Assam,Silchar,2017,337.74
+Assam,Silchar,2018,145.88
+Assam,Silchar,2019,154.0
+Assam,Silchar,2020,252.74
+Assam,Silchar,2021,399.26
+Assam,Silchar,2022,225.06
+Assam,Silchar,2023,341.26
+Assam,Jorhat,2000,313.93
+Assam,Jorhat,2001,97.31
+Assam,Jorhat,2002,334.48
+Assam,Jorhat,2003,130.6
+Assam,Jorhat,2004,258.03
+Assam,Jorhat,2005,396.65
+Assam,Jorhat,2006,240.1
+Assam,Jorhat,2007,228.06
+Assam,Jorhat,2008,170.46
+Assam,Jorhat,2009,164.02
+Assam,Jorhat,2010,384.55
+Assam,Jorhat,2011,357.97
+Assam,Jorhat,2012,132.1
+Assam,Jorhat,2013,368.93
+Assam,Jorhat,2014,309.71
+Assam,Jorhat,2015,345.25
+Assam,Jorhat,2016,204.62
+Assam,Jorhat,2017,182.43
+Assam,Jorhat,2018,254.72
+Assam,Jorhat,2019,243.93
+Assam,Jorhat,2020,270.22
+Assam,Jorhat,2021,154.03
+Assam,Jorhat,2022,157.7
+Assam,Jorhat,2023,247.86
+Assam,Nagaon,2000,314.33
+Assam,Nagaon,2001,273.72
+Assam,Nagaon,2002,134.91
+Assam,Nagaon,2003,111.56
+Assam,Nagaon,2004,410.44
+Assam,Nagaon,2005,219.91
+Assam,Nagaon,2006,293.96
+Assam,Nagaon,2007,112.2
+Assam,Nagaon,2008,125.62
+Assam,Nagaon,2009,168.42
+Assam,Nagaon,2010,270.49
+Assam,Nagaon,2011,404.23
+Assam,Nagaon,2012,274.89
+Assam,Nagaon,2013,196.38
+Assam,Nagaon,2014,315.2
+Assam,Nagaon,2015,388.54
+Assam,Nagaon,2016,183.7
+Assam,Nagaon,2017,268.44
+Assam,Nagaon,2018,370.43
+Assam,Nagaon,2019,300.07
+Assam,Nagaon,2020,281.4
+Assam,Nagaon,2021,263.89
+Assam,Nagaon,2022,259.56
+Assam,Nagaon,2023,294.63
