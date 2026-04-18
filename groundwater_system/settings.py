@@ -10,6 +10,11 @@ SECRET_KEY = os.getenv('SECRET_KEY', 'django-insecure-change-in-production')
 DEBUG = os.getenv('DEBUG', 'False') == 'True'
 ALLOWED_HOSTS = os.getenv('ALLOWED_HOSTS', '*').split(',')
 
+CSRF_TRUSTED_ORIGINS = [
+    'https://*.railway.app',
+    'https://web-production-1bfcde.up.railway.app',
+]
+
 INSTALLED_APPS = [
     'django.contrib.admin',
     'django.contrib.auth',
